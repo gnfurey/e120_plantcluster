@@ -1,0 +1,7 @@
+Species,Species Name,
+Area_of_leaf_blade_cm2,Leaf laminar area (cm^2),squareCentimeters
+P/A,permeter per area (cm-1),waveNumber
+P_A*L,Perimeter per area times leaf laminar length (unitless),dimensionless
+SLA_cm2/g,Specific leaf length (cm^2/g),centimetersSquaredPerGram
+Seed_weight_(g),Seed weight (g),gram
+height_(m),Average plant height at maturity (m),meter
