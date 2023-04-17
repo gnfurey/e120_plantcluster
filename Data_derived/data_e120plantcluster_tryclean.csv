@@ -1,0 +1,331 @@
+AccSpeciesName,TraitName,val,TraitID,TraitNameClean,VarName,UnitName,Dataset
+Achillea millefolium,Fine root diameter,0.4575340625,896,Fine root diameter,FineRootDiameter,mm,TRY
+Amorpha canescens,Fine root diameter,0.1938,896,Fine root diameter,FineRootDiameter,mm,TRY
+Andropogon gerardi,Fine root diameter,0.290065,896,Fine root diameter,FineRootDiameter,mm,TRY
+Asclepias tuberosa,Fine root diameter,0.5,896,Fine root diameter,FineRootDiameter,mm,TRY
+Petalostemum purpureum,Fine root diameter,0.3316,896,Fine root diameter,FineRootDiameter,mm,TRY
+Koeleria macrantha,Fine root diameter,0.148893333335,896,Fine root diameter,FineRootDiameter,mm,TRY
+Lespedeza capitata,Fine root diameter,0.333275,896,Fine root diameter,FineRootDiameter,mm,TRY
+Liatris aspera,Fine root diameter,0.33586,896,Fine root diameter,FineRootDiameter,mm,TRY
+Lupinus perennis,Fine root diameter,0.34,896,Fine root diameter,FineRootDiameter,mm,TRY
+Monarda fistulosa,Fine root diameter,0.27182,896,Fine root diameter,FineRootDiameter,mm,TRY
+Panicum virgatum,Fine root diameter,0.2428,896,Fine root diameter,FineRootDiameter,mm,TRY
+Poa pratensis,Fine root diameter,0.4185507142857143,896,Fine root diameter,FineRootDiameter,mm,TRY
+Schizachyrium scoparium,Fine root diameter,0.32821666666666666,896,Fine root diameter,FineRootDiameter,mm,TRY
+Solidago rigida,Fine root diameter,0.48237341085333335,896,Fine root diameter,FineRootDiameter,mm,TRY
+Sorghastrum nutans,Fine root diameter,0.253555,896,Fine root diameter,FineRootDiameter,mm,TRY
+Achillea millefolium,Fine root tissue density (fine root dry mass per fine root volume),0.238732338,1781,Fine root tissue density,FineRootTissueDensity,g/cm3,TRY
+Amorpha canescens,Fine root tissue density (fine root dry mass per fine root volume),0.585778,1781,Fine root tissue density,FineRootTissueDensity,g/cm3,TRY
+Andropogon gerardi,Fine root tissue density (fine root dry mass per fine root volume),0.31984250000000003,1781,Fine root tissue density,FineRootTissueDensity,g/cm3,TRY
+Asclepias tuberosa,Fine root tissue density (fine root dry mass per fine root volume),0.22,1781,Fine root tissue density,FineRootTissueDensity,g/cm3,TRY
+Petalostemum purpureum,Fine root tissue density (fine root dry mass per fine root volume),0.19375,1781,Fine root tissue density,FineRootTissueDensity,g/cm3,TRY
+Koeleria macrantha,Fine root tissue density (fine root dry mass per fine root volume),0.38172662246,1781,Fine root tissue density,FineRootTissueDensity,g/cm3,TRY
+Lespedeza capitata,Fine root tissue density (fine root dry mass per fine root volume),0.2440045,1781,Fine root tissue density,FineRootTissueDensity,g/cm3,TRY
+Liatris aspera,Fine root tissue density (fine root dry mass per fine root volume),0.1353135,1781,Fine root tissue density,FineRootTissueDensity,g/cm3,TRY
+Lupinus perennis,Fine root tissue density (fine root dry mass per fine root volume),0.32,1781,Fine root tissue density,FineRootTissueDensity,g/cm3,TRY
+Monarda fistulosa,Fine root tissue density (fine root dry mass per fine root volume),0.191791,1781,Fine root tissue density,FineRootTissueDensity,g/cm3,TRY
+Panicum virgatum,Fine root tissue density (fine root dry mass per fine root volume),0.27406600000000003,1781,Fine root tissue density,FineRootTissueDensity,g/cm3,TRY
+Poa pratensis,Fine root tissue density (fine root dry mass per fine root volume),0.29739143755,1781,Fine root tissue density,FineRootTissueDensity,g/cm3,TRY
+Schizachyrium scoparium,Fine root tissue density (fine root dry mass per fine root volume),0.29098403824999997,1781,Fine root tissue density,FineRootTissueDensity,g/cm3,TRY
+Solidago rigida,Fine root tissue density (fine root dry mass per fine root volume),0.21278011832666666,1781,Fine root tissue density,FineRootTissueDensity,g/cm3,TRY
+Sorghastrum nutans,Fine root tissue density (fine root dry mass per fine root volume),0.24489100000000003,1781,Fine root tissue density,FineRootTissueDensity,g/cm3,TRY
+Achillea millefolium,"Leaf area (in case of compound leaves: leaf, petiole included)",592.5391372547866,3110, Leaf area (petiole included),LeafArea,mm2,TRY
+Amorpha canescens,"Leaf area (in case of compound leaves: leaf, petiole included)",2232.8333333333335,3110, Leaf area (petiole included),LeafArea,mm2,TRY
+Andropogon gerardi,"Leaf area (in case of compound leaves: leaf, petiole included)",1262.997111111111,3110, Leaf area (petiole included),LeafArea,mm2,TRY
+Asclepias tuberosa,"Leaf area (in case of compound leaves: leaf, petiole included)",1143.48,3110, Leaf area (petiole included),LeafArea,mm2,TRY
+Petalostemum purpureum,"Leaf area (in case of compound leaves: leaf, petiole included)",100.82142857142857,3110, Leaf area (petiole included),LeafArea,mm2,TRY
+Koeleria macrantha,"Leaf area (in case of compound leaves: leaf, petiole included)",126.31518827160494,3110, Leaf area (petiole included),LeafArea,mm2,TRY
+Lespedeza capitata,"Leaf area (in case of compound leaves: leaf, petiole included)",604.9960377358491,3110, Leaf area (petiole included),LeafArea,mm2,TRY
+Liatris aspera,"Leaf area (in case of compound leaves: leaf, petiole included)",506,3110, Leaf area (petiole included),LeafArea,mm2,TRY
+Lupinus perennis,"Leaf area (in case of compound leaves: leaf, petiole included)",1886.848109,3110, Leaf area (petiole included),LeafArea,mm2,TRY
+Monarda fistulosa,"Leaf area (in case of compound leaves: leaf, petiole included)",807.5717525773196,3110, Leaf area (petiole included),LeafArea,mm2,TRY
+Panicum virgatum,"Leaf area (in case of compound leaves: leaf, petiole included)",2101.3844444444444,3110, Leaf area (petiole included),LeafArea,mm2,TRY
+Poa pratensis,"Leaf area (in case of compound leaves: leaf, petiole included)",590.7961496267156,3110, Leaf area (petiole included),LeafArea,mm2,TRY
+Schizachyrium scoparium,"Leaf area (in case of compound leaves: leaf, petiole included)",687.3038095238095,3110, Leaf area (petiole included),LeafArea,mm2,TRY
+Solidago rigida,"Leaf area (in case of compound leaves: leaf, petiole included)",3537.8596428571427,3110, Leaf area (petiole included),LeafArea,mm2,TRY
+Sorghastrum nutans,"Leaf area (in case of compound leaves: leaf, petiole included)",1829.51425,3110, Leaf area (petiole included),LeafArea,mm2,TRY
+Achillea millefolium,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole excluded",14.2235977957523,3115,Leaf area per leaf dry mass (petiole excluded),TRY_SLA_pet_ex,mm2 mg-1,TRY
+Amorpha canescens,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole excluded",25.89918032867775,3115,Leaf area per leaf dry mass (petiole excluded),TRY_SLA_pet_ex,mm2 mg-1,TRY
+Andropogon gerardi,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole excluded",22.7780384870937,3115,Leaf area per leaf dry mass (petiole excluded),TRY_SLA_pet_ex,mm2 mg-1,TRY
+Asclepias tuberosa,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole excluded",24.2877068512294,3115,Leaf area per leaf dry mass (petiole excluded),TRY_SLA_pet_ex,mm2 mg-1,TRY
+Petalostemum purpureum,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole excluded",17.515776762871074,3115,Leaf area per leaf dry mass (petiole excluded),TRY_SLA_pet_ex,mm2 mg-1,TRY
+Koeleria macrantha,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole excluded",12.934632856593325,3115,Leaf area per leaf dry mass (petiole excluded),TRY_SLA_pet_ex,mm2 mg-1,TRY
+Lespedeza capitata,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole excluded",20.88374903438007,3115,Leaf area per leaf dry mass (petiole excluded),TRY_SLA_pet_ex,mm2 mg-1,TRY
+Liatris aspera,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole excluded",11.93781763111202,3115,Leaf area per leaf dry mass (petiole excluded),TRY_SLA_pet_ex,mm2 mg-1,TRY
+Lupinus perennis,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole excluded",21.081,3115,Leaf area per leaf dry mass (petiole excluded),TRY_SLA_pet_ex,mm2 mg-1,TRY
+Monarda fistulosa,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole excluded",26.50217784816326,3115,Leaf area per leaf dry mass (petiole excluded),TRY_SLA_pet_ex,mm2 mg-1,TRY
+Panicum virgatum,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole excluded",20.63090606909371,3115,Leaf area per leaf dry mass (petiole excluded),TRY_SLA_pet_ex,mm2 mg-1,TRY
+Poa pratensis,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole excluded",24.524232285258762,3115,Leaf area per leaf dry mass (petiole excluded),TRY_SLA_pet_ex,mm2 mg-1,TRY
+Schizachyrium scoparium,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole excluded",18.740799057281098,3115,Leaf area per leaf dry mass (petiole excluded),TRY_SLA_pet_ex,mm2 mg-1,TRY
+Solidago rigida,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole excluded",7.62195121951219,3115,Leaf area per leaf dry mass (petiole excluded),TRY_SLA_pet_ex,mm2 mg-1,TRY
+Sorghastrum nutans,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole excluded",17.735549612846217,3115,Leaf area per leaf dry mass (petiole excluded),TRY_SLA_pet_ex,mm2 mg-1,TRY
+Achillea millefolium,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole included",16.54752411363936,3116,Leaf area per leaf dry mass (petiole included),TRY_SLA_pet_inc,mm2 mg-1,TRY
+Amorpha canescens,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole included",16.88540031368357,3116,Leaf area per leaf dry mass (petiole included),TRY_SLA_pet_inc,mm2 mg-1,TRY
+Andropogon gerardi,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole included",17.434907968087362,3116,Leaf area per leaf dry mass (petiole included),TRY_SLA_pet_inc,mm2 mg-1,TRY
+Asclepias tuberosa,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole included",17.6076231427353,3116,Leaf area per leaf dry mass (petiole included),TRY_SLA_pet_inc,mm2 mg-1,TRY
+Petalostemum purpureum,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole included",8.959487806765464,3116,Leaf area per leaf dry mass (petiole included),TRY_SLA_pet_inc,mm2 mg-1,TRY
+Koeleria macrantha,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole included",18.245180114799425,3116,Leaf area per leaf dry mass (petiole included),TRY_SLA_pet_inc,mm2 mg-1,TRY
+Lespedeza capitata,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole included",12.679935761370798,3116,Leaf area per leaf dry mass (petiole included),TRY_SLA_pet_inc,mm2 mg-1,TRY
+Liatris aspera,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole included",10.475200099403704,3116,Leaf area per leaf dry mass (petiole included),TRY_SLA_pet_inc,mm2 mg-1,TRY
+Lupinus perennis,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole included",22.450582653175836,3116,Leaf area per leaf dry mass (petiole included),TRY_SLA_pet_inc,mm2 mg-1,TRY
+Monarda fistulosa,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole included",19.061833293750155,3116,Leaf area per leaf dry mass (petiole included),TRY_SLA_pet_inc,mm2 mg-1,TRY
+Panicum virgatum,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole included",14.107052615375729,3116,Leaf area per leaf dry mass (petiole included),TRY_SLA_pet_inc,mm2 mg-1,TRY
+Poa pratensis,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole included",19.833521466190422,3116,Leaf area per leaf dry mass (petiole included),TRY_SLA_pet_inc,mm2 mg-1,TRY
+Schizachyrium scoparium,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole included",17.221052194901326,3116,Leaf area per leaf dry mass (petiole included),TRY_SLA_pet_inc,mm2 mg-1,TRY
+Solidago rigida,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole included",12.504054826100973,3116,Leaf area per leaf dry mass (petiole included),TRY_SLA_pet_inc,mm2 mg-1,TRY
+Sorghastrum nutans,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole included",14.390352914536118,3116,Leaf area per leaf dry mass (petiole included),TRY_SLA_pet_inc,mm2 mg-1,TRY
+Achillea millefolium,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded",14.462571223708343,3117,Leaf area per leaf dry mass (petiole undefined),TRY_SLA_pet_undef,mm2 mg-1,TRY
+Amorpha canescens,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded",14.720446901,3117,Leaf area per leaf dry mass (petiole undefined),TRY_SLA_pet_undef,mm2 mg-1,TRY
+Andropogon gerardi,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded",18.197787036497825,3117,Leaf area per leaf dry mass (petiole undefined),TRY_SLA_pet_undef,mm2 mg-1,TRY
+Asclepias tuberosa,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded",19.413898973964287,3117,Leaf area per leaf dry mass (petiole undefined),TRY_SLA_pet_undef,mm2 mg-1,TRY
+Petalostemum purpureum,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded",12.442500395169356,3117,Leaf area per leaf dry mass (petiole undefined),TRY_SLA_pet_undef,mm2 mg-1,TRY
+Koeleria macrantha,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded",12.048521220009615,3117,Leaf area per leaf dry mass (petiole undefined),TRY_SLA_pet_undef,mm2 mg-1,TRY
+Lespedeza capitata,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded",13.714720204999999,3117,Leaf area per leaf dry mass (petiole undefined),TRY_SLA_pet_undef,mm2 mg-1,TRY
+Liatris aspera,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded",13.00435132482353,3117,Leaf area per leaf dry mass (petiole undefined),TRY_SLA_pet_undef,mm2 mg-1,TRY
+Lupinus perennis,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded",18.404347651941176,3117,Leaf area per leaf dry mass (petiole undefined),TRY_SLA_pet_undef,mm2 mg-1,TRY
+Monarda fistulosa,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded",20.26225272154762,3117,Leaf area per leaf dry mass (petiole undefined),TRY_SLA_pet_undef,mm2 mg-1,TRY
+Panicum virgatum,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded",21.73370928657355,3117,Leaf area per leaf dry mass (petiole undefined),TRY_SLA_pet_undef,mm2 mg-1,TRY
+Poa pratensis,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded",18.88935088711842,3117,Leaf area per leaf dry mass (petiole undefined),TRY_SLA_pet_undef,mm2 mg-1,TRY
+Schizachyrium scoparium,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded",18.17762664920617,3117,Leaf area per leaf dry mass (petiole undefined),TRY_SLA_pet_undef,mm2 mg-1,TRY
+Solidago rigida,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded",11.738761780212121,3117,Leaf area per leaf dry mass (petiole undefined),TRY_SLA_pet_undef,mm2 mg-1,TRY
+Sorghastrum nutans,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded",15.95714973906479,3117,Leaf area per leaf dry mass (petiole undefined),TRY_SLA_pet_undef,mm2 mg-1,TRY
+Achillea millefolium,Leaf carbon (C) isotope signature (delta 13C),-29.421750685714287,89,Leaf carbon (C) isotope signature (delta 13C),LeafDelta13Carbon,per mill,TRY
+Amorpha canescens,Leaf carbon (C) isotope signature (delta 13C),-27.02,89,Leaf carbon (C) isotope signature (delta 13C),LeafDelta13Carbon,per mill,TRY
+Andropogon gerardi,Leaf carbon (C) isotope signature (delta 13C),-12.475,89,Leaf carbon (C) isotope signature (delta 13C),LeafDelta13Carbon,per mill,TRY
+Asclepias tuberosa,Leaf carbon (C) isotope signature (delta 13C),-27.975,89,Leaf carbon (C) isotope signature (delta 13C),LeafDelta13Carbon,per mill,TRY
+Petalostemum purpureum,Leaf carbon (C) isotope signature (delta 13C),-27.84,89,Leaf carbon (C) isotope signature (delta 13C),LeafDelta13Carbon,per mill,TRY
+Koeleria macrantha,Leaf carbon (C) isotope signature (delta 13C),-28.542,89,Leaf carbon (C) isotope signature (delta 13C),LeafDelta13Carbon,per mill,TRY
+Lespedeza capitata,Leaf carbon (C) isotope signature (delta 13C),-29.03,89,Leaf carbon (C) isotope signature (delta 13C),LeafDelta13Carbon,per mill,TRY
+Liatris aspera,Leaf carbon (C) isotope signature (delta 13C),-30.83,89,Leaf carbon (C) isotope signature (delta 13C),LeafDelta13Carbon,per mill,TRY
+Lupinus perennis,Leaf carbon (C) isotope signature (delta 13C),-29.5,89,Leaf carbon (C) isotope signature (delta 13C),LeafDelta13Carbon,per mill,TRY
+Monarda fistulosa,Leaf carbon (C) isotope signature (delta 13C),-28.645000000000003,89,Leaf carbon (C) isotope signature (delta 13C),LeafDelta13Carbon,per mill,TRY
+Panicum virgatum,Leaf carbon (C) isotope signature (delta 13C),-12.83,89,Leaf carbon (C) isotope signature (delta 13C),LeafDelta13Carbon,per mill,TRY
+Poa pratensis,Leaf carbon (C) isotope signature (delta 13C),-28.424500000000002,89,Leaf carbon (C) isotope signature (delta 13C),LeafDelta13Carbon,per mill,TRY
+Schizachyrium scoparium,Leaf carbon (C) isotope signature (delta 13C),-13.857,89,Leaf carbon (C) isotope signature (delta 13C),LeafDelta13Carbon,per mill,TRY
+Solidago rigida,Leaf carbon (C) isotope signature (delta 13C),-30.215,89,Leaf carbon (C) isotope signature (delta 13C),LeafDelta13Carbon,per mill,TRY
+Sorghastrum nutans,Leaf carbon (C) isotope signature (delta 13C),-11.64,89,Leaf carbon (C) isotope signature (delta 13C),LeafDelta13Carbon,per mill,TRY
+Achillea millefolium,Leaf dry mass (single leaf),40.05855406819162,55,Leaf dry mass (single leaf),LeafDryMassSingle,mg,TRY
+Amorpha canescens,Leaf dry mass (single leaf),99.76583333333333,55,Leaf dry mass (single leaf),LeafDryMassSingle,mg,TRY
+Andropogon gerardi,Leaf dry mass (single leaf),76.80666666666667,55,Leaf dry mass (single leaf),LeafDryMassSingle,mg,TRY
+Asclepias tuberosa,Leaf dry mass (single leaf),62.33,55,Leaf dry mass (single leaf),LeafDryMassSingle,mg,TRY
+Petalostemum purpureum,Leaf dry mass (single leaf),7.700972222222222,55,Leaf dry mass (single leaf),LeafDryMassSingle,mg,TRY
+Koeleria macrantha,Leaf dry mass (single leaf),6.839545454545455,55,Leaf dry mass (single leaf),LeafDryMassSingle,mg,TRY
+Lespedeza capitata,Leaf dry mass (single leaf),46.079802259887,55,Leaf dry mass (single leaf),LeafDryMassSingle,mg,TRY
+Liatris aspera,Leaf dry mass (single leaf),21.935,55,Leaf dry mass (single leaf),LeafDryMassSingle,mg,TRY
+Lupinus perennis,Leaf dry mass (single leaf),132.4,55,Leaf dry mass (single leaf),LeafDryMassSingle,mg,TRY
+Monarda fistulosa,Leaf dry mass (single leaf),50.002941176470586,55,Leaf dry mass (single leaf),LeafDryMassSingle,mg,TRY
+Panicum virgatum,Leaf dry mass (single leaf),99.37025,55,Leaf dry mass (single leaf),LeafDryMassSingle,mg,TRY
+Poa pratensis,Leaf dry mass (single leaf),43.550848386694675,55,Leaf dry mass (single leaf),LeafDryMassSingle,mg,TRY
+Schizachyrium scoparium,Leaf dry mass (single leaf),35.136584062196306,55,Leaf dry mass (single leaf),LeafDryMassSingle,mg,TRY
+Solidago rigida,Leaf dry mass (single leaf),338.99545454545455,55,Leaf dry mass (single leaf),LeafDryMassSingle,mg,TRY
+Sorghastrum nutans,Leaf dry mass (single leaf),97.55236714975845,55,Leaf dry mass (single leaf),LeafDryMassSingle,mg,TRY
+Achillea millefolium,"Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)",0.2398636711832584,47,Leaf dry mass per leaf fresh mass,LDMC,g g-1,TRY
+Amorpha canescens,"Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)",0.3920418256328133,47,Leaf dry mass per leaf fresh mass,LDMC,g g-1,TRY
+Andropogon gerardi,"Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)",0.34993729387611877,47,Leaf dry mass per leaf fresh mass,LDMC,g g-1,TRY
+Asclepias tuberosa,"Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)",0.22402292875729668,47,Leaf dry mass per leaf fresh mass,LDMC,g g-1,TRY
+Petalostemum purpureum,"Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)",0.2967595343218814,47,Leaf dry mass per leaf fresh mass,LDMC,g g-1,TRY
+Koeleria macrantha,"Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)",0.3418959787642674,47,Leaf dry mass per leaf fresh mass,LDMC,g g-1,TRY
+Lespedeza capitata,"Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)",0.3798265646148605,47,Leaf dry mass per leaf fresh mass,LDMC,g g-1,TRY
+Liatris aspera,"Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)",0.260191243502618,47,Leaf dry mass per leaf fresh mass,LDMC,g g-1,TRY
+Lupinus perennis,"Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)",0.1396701020251912,47,Leaf dry mass per leaf fresh mass,LDMC,g g-1,TRY
+Monarda fistulosa,"Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)",0.2508642321346669,47,Leaf dry mass per leaf fresh mass,LDMC,g g-1,TRY
+Panicum virgatum,"Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)",0.4644645760369738,47,Leaf dry mass per leaf fresh mass,LDMC,g g-1,TRY
+Poa pratensis,"Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)",0.33005859593405584,47,Leaf dry mass per leaf fresh mass,LDMC,g g-1,TRY
+Schizachyrium scoparium,"Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)",0.3792099883433704,47,Leaf dry mass per leaf fresh mass,LDMC,g g-1,TRY
+Solidago rigida,"Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)",0.2591490919497893,47,Leaf dry mass per leaf fresh mass,LDMC,g g-1,TRY
+Sorghastrum nutans,"Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)",0.38402707365025346,47,Leaf dry mass per leaf fresh mass,LDMC,g g-1,TRY
+Achillea millefolium,Leaf fresh mass,0.14310544303797468,163,Leaf fresh mass,LeafFreshMass,g,TRY
+Amorpha canescens,Leaf fresh mass,0.3061,163,Leaf fresh mass,LeafFreshMass,g,TRY
+Andropogon gerardi,Leaf fresh mass,0.21309155555555556,163,Leaf fresh mass,LeafFreshMass,g,TRY
+Asclepias tuberosa,Leaf fresh mass,0.22340909090909092,163,Leaf fresh mass,LeafFreshMass,g,TRY
+Petalostemum purpureum,Leaf fresh mass,0.03065470588235294,163,Leaf fresh mass,LeafFreshMass,g,TRY
+Koeleria macrantha,Leaf fresh mass,0.014072727272727273,163,Leaf fresh mass,LeafFreshMass,g,TRY
+Lespedeza capitata,Leaf fresh mass,0.1313,163,Leaf fresh mass,LeafFreshMass,g,TRY
+Liatris aspera,Leaf fresh mass,0.10326,163,Leaf fresh mass,LeafFreshMass,g,TRY
+Lupinus perennis,Leaf fresh mass,0.94027,163,Leaf fresh mass,LeafFreshMass,g,TRY
+Monarda fistulosa,Leaf fresh mass,0.2046925,163,Leaf fresh mass,LeafFreshMass,g,TRY
+Panicum virgatum,Leaf fresh mass,0.4437641666666667,163,Leaf fresh mass,LeafFreshMass,g,TRY
+Poa pratensis,Leaf fresh mass,0.12778701754385965,163,Leaf fresh mass,LeafFreshMass,g,TRY
+Schizachyrium scoparium,Leaf fresh mass,0.13041214285714287,163,Leaf fresh mass,LeafFreshMass,g,TRY
+Solidago rigida,Leaf fresh mass,1.2100055555555556,163,Leaf fresh mass,LeafFreshMass,g,TRY
+Sorghastrum nutans,Leaf fresh mass,0.32318833333333336,163,Leaf fresh mass,LeafFreshMass,g,TRY
+Achillea millefolium,Leaf nitrogen (N) content per leaf dry mass,25.530981914036,14,Leaf nitrogen (N) content per leaf dry mass,LeafNitrogen,mg/g,TRY
+Amorpha canescens,Leaf nitrogen (N) content per leaf dry mass,24.643566639333333,14,Leaf nitrogen (N) content per leaf dry mass,LeafNitrogen,mg/g,TRY
+Andropogon gerardi,Leaf nitrogen (N) content per leaf dry mass,13.098748958125,14,Leaf nitrogen (N) content per leaf dry mass,LeafNitrogen,mg/g,TRY
+Asclepias tuberosa,Leaf nitrogen (N) content per leaf dry mass,28.799966666666666,14,Leaf nitrogen (N) content per leaf dry mass,LeafNitrogen,mg/g,TRY
+Petalostemum purpureum,Leaf nitrogen (N) content per leaf dry mass,21.143333333333334,14,Leaf nitrogen (N) content per leaf dry mass,LeafNitrogen,mg/g,TRY
+Koeleria macrantha,Leaf nitrogen (N) content per leaf dry mass,20.475098885712896,14,Leaf nitrogen (N) content per leaf dry mass,LeafNitrogen,mg/g,TRY
+Lespedeza capitata,Leaf nitrogen (N) content per leaf dry mass,22.705878655714287,14,Leaf nitrogen (N) content per leaf dry mass,LeafNitrogen,mg/g,TRY
+Liatris aspera,Leaf nitrogen (N) content per leaf dry mass,12.363817470869565,14,Leaf nitrogen (N) content per leaf dry mass,LeafNitrogen,mg/g,TRY
+Lupinus perennis,Leaf nitrogen (N) content per leaf dry mass,31.68693434357143,14,Leaf nitrogen (N) content per leaf dry mass,LeafNitrogen,mg/g,TRY
+Monarda fistulosa,Leaf nitrogen (N) content per leaf dry mass,16.597702686666665,14,Leaf nitrogen (N) content per leaf dry mass,LeafNitrogen,mg/g,TRY
+Panicum virgatum,Leaf nitrogen (N) content per leaf dry mass,16.708745041627086,14,Leaf nitrogen (N) content per leaf dry mass,LeafNitrogen,mg/g,TRY
+Poa pratensis,Leaf nitrogen (N) content per leaf dry mass,18.338872985016316,14,Leaf nitrogen (N) content per leaf dry mass,LeafNitrogen,mg/g,TRY
+Schizachyrium scoparium,Leaf nitrogen (N) content per leaf dry mass,11.90849986974359,14,Leaf nitrogen (N) content per leaf dry mass,LeafNitrogen,mg/g,TRY
+Solidago rigida,Leaf nitrogen (N) content per leaf dry mass,12.432366622941176,14,Leaf nitrogen (N) content per leaf dry mass,LeafNitrogen,mg/g,TRY
+Sorghastrum nutans,Leaf nitrogen (N) content per leaf dry mass,13.387116182537314,14,Leaf nitrogen (N) content per leaf dry mass,LeafNitrogen,mg/g,TRY
+Achillea millefolium,Leaf nitrogen (N) isotope signature (delta 15N),-2.3529411764705883,78,Leaf nitrogen (N) isotope signature (delta 15N),LeafDelta15Nitrogen,per mill,TRY
+Amorpha canescens,Leaf nitrogen (N) isotope signature (delta 15N),-1.9080000000000001,78,Leaf nitrogen (N) isotope signature (delta 15N),LeafDelta15Nitrogen,per mill,TRY
+Andropogon gerardi,Leaf nitrogen (N) isotope signature (delta 15N),-1.0933333333333333,78,Leaf nitrogen (N) isotope signature (delta 15N),LeafDelta15Nitrogen,per mill,TRY
+Asclepias tuberosa,Leaf nitrogen (N) isotope signature (delta 15N),0.365,78,Leaf nitrogen (N) isotope signature (delta 15N),LeafDelta15Nitrogen,per mill,TRY
+Petalostemum purpureum,Leaf nitrogen (N) isotope signature (delta 15N),-2.99,78,Leaf nitrogen (N) isotope signature (delta 15N),LeafDelta15Nitrogen,per mill,TRY
+Koeleria macrantha,Leaf nitrogen (N) isotope signature (delta 15N),-1.198,78,Leaf nitrogen (N) isotope signature (delta 15N),LeafDelta15Nitrogen,per mill,TRY
+Lespedeza capitata,Leaf nitrogen (N) isotope signature (delta 15N),-1.79125,78,Leaf nitrogen (N) isotope signature (delta 15N),LeafDelta15Nitrogen,per mill,TRY
+Liatris aspera,Leaf nitrogen (N) isotope signature (delta 15N),-2.6919999999999997,78,Leaf nitrogen (N) isotope signature (delta 15N),LeafDelta15Nitrogen,per mill,TRY
+Lupinus perennis,Leaf nitrogen (N) isotope signature (delta 15N),-0.7325,78,Leaf nitrogen (N) isotope signature (delta 15N),LeafDelta15Nitrogen,per mill,TRY
+Monarda fistulosa,Leaf nitrogen (N) isotope signature (delta 15N),-0.9925,78,Leaf nitrogen (N) isotope signature (delta 15N),LeafDelta15Nitrogen,per mill,TRY
+Panicum virgatum,Leaf nitrogen (N) isotope signature (delta 15N),0.432,78,Leaf nitrogen (N) isotope signature (delta 15N),LeafDelta15Nitrogen,per mill,TRY
+Poa pratensis,Leaf nitrogen (N) isotope signature (delta 15N),0.004736842105263162,78,Leaf nitrogen (N) isotope signature (delta 15N),LeafDelta15Nitrogen,per mill,TRY
+Schizachyrium scoparium,Leaf nitrogen (N) isotope signature (delta 15N),-1.841,78,Leaf nitrogen (N) isotope signature (delta 15N),LeafDelta15Nitrogen,per mill,TRY
+Solidago rigida,Leaf nitrogen (N) isotope signature (delta 15N),-2.4944444444444445,78,Leaf nitrogen (N) isotope signature (delta 15N),LeafDelta15Nitrogen,per mill,TRY
+Sorghastrum nutans,Leaf nitrogen (N) isotope signature (delta 15N),-1.638125,78,Leaf nitrogen (N) isotope signature (delta 15N),LeafDelta15Nitrogen,per mill,TRY
+Achillea millefolium,Leaf photosynthesis rate per leaf area,15.934576400538761,53,Leaf photosynthesis rate per leaf area,LeafPhoto_area,micro mol m-2 s-1,TRY
+Amorpha canescens,Leaf photosynthesis rate per leaf area,11.033612742800502,53,Leaf photosynthesis rate per leaf area,LeafPhoto_area,micro mol m-2 s-1,TRY
+Andropogon gerardi,Leaf photosynthesis rate per leaf area,19.461351919210784,53,Leaf photosynthesis rate per leaf area,LeafPhoto_area,micro mol m-2 s-1,TRY
+Asclepias tuberosa,Leaf photosynthesis rate per leaf area,11.3,53,Leaf photosynthesis rate per leaf area,LeafPhoto_area,micro mol m-2 s-1,TRY
+Petalostemum purpureum,Leaf photosynthesis rate per leaf area,36.6,53,Leaf photosynthesis rate per leaf area,LeafPhoto_area,micro mol m-2 s-1,TRY
+Koeleria macrantha,Leaf photosynthesis rate per leaf area,14.467782369185683,53,Leaf photosynthesis rate per leaf area,LeafPhoto_area,micro mol m-2 s-1,TRY
+Lespedeza capitata,Leaf photosynthesis rate per leaf area,14.334064787731158,53,Leaf photosynthesis rate per leaf area,LeafPhoto_area,micro mol m-2 s-1,TRY
+Liatris aspera,Leaf photosynthesis rate per leaf area,11.915555555555557,53,Leaf photosynthesis rate per leaf area,LeafPhoto_area,micro mol m-2 s-1,TRY
+Lupinus perennis,Leaf photosynthesis rate per leaf area,16.89665953604226,53,Leaf photosynthesis rate per leaf area,LeafPhoto_area,micro mol m-2 s-1,TRY
+Monarda fistulosa,Leaf photosynthesis rate per leaf area,9.250976666666666,53,Leaf photosynthesis rate per leaf area,LeafPhoto_area,micro mol m-2 s-1,TRY
+Panicum virgatum,Leaf photosynthesis rate per leaf area,17.17947687458326,53,Leaf photosynthesis rate per leaf area,LeafPhoto_area,micro mol m-2 s-1,TRY
+Poa pratensis,Leaf photosynthesis rate per leaf area,17.627470118314264,53,Leaf photosynthesis rate per leaf area,LeafPhoto_area,micro mol m-2 s-1,TRY
+Schizachyrium scoparium,Leaf photosynthesis rate per leaf area,14.764039011784241,53,Leaf photosynthesis rate per leaf area,LeafPhoto_area,micro mol m-2 s-1,TRY
+Solidago rigida,Leaf photosynthesis rate per leaf area,15.8770666517728,53,Leaf photosynthesis rate per leaf area,LeafPhoto_area,micro mol m-2 s-1,TRY
+Sorghastrum nutans,Leaf photosynthesis rate per leaf area,22.426187206920147,53,Leaf photosynthesis rate per leaf area,LeafPhoto_area,micro mol m-2 s-1,TRY
+Achillea millefolium,Leaf photosynthesis rate per leaf dry mass,0.2876417440634685,40,Leaf photosynthesis rate per leaf dry mass,LeafPhoto_mass,micro mol g-1 s-1,TRY
+Amorpha canescens,Leaf photosynthesis rate per leaf dry mass,0.224,40,Leaf photosynthesis rate per leaf dry mass,LeafPhoto_mass,micro mol g-1 s-1,TRY
+Andropogon gerardi,Leaf photosynthesis rate per leaf dry mass,0.3107467537419463,40,Leaf photosynthesis rate per leaf dry mass,LeafPhoto_mass,micro mol g-1 s-1,TRY
+Asclepias tuberosa,Leaf photosynthesis rate per leaf dry mass,0.13673,40,Leaf photosynthesis rate per leaf dry mass,LeafPhoto_mass,micro mol g-1 s-1,TRY
+Petalostemum purpureum,Leaf photosynthesis rate per leaf dry mass,0.2745,40,Leaf photosynthesis rate per leaf dry mass,LeafPhoto_mass,micro mol g-1 s-1,TRY
+Koeleria macrantha,Leaf photosynthesis rate per leaf dry mass,0.22448364875866667,40,Leaf photosynthesis rate per leaf dry mass,LeafPhoto_mass,micro mol g-1 s-1,TRY
+Lespedeza capitata,Leaf photosynthesis rate per leaf dry mass,0.17978765937459554,40,Leaf photosynthesis rate per leaf dry mass,LeafPhoto_mass,micro mol g-1 s-1,TRY
+Liatris aspera,Leaf photosynthesis rate per leaf dry mass,0.12395544770385714,40,Leaf photosynthesis rate per leaf dry mass,LeafPhoto_mass,micro mol g-1 s-1,TRY
+Lupinus perennis,Leaf photosynthesis rate per leaf dry mass,0.344744,40,Leaf photosynthesis rate per leaf dry mass,LeafPhoto_mass,micro mol g-1 s-1,TRY
+Monarda fistulosa,Leaf photosynthesis rate per leaf dry mass,0.18432556891980867,40,Leaf photosynthesis rate per leaf dry mass,LeafPhoto_mass,micro mol g-1 s-1,TRY
+Panicum virgatum,Leaf photosynthesis rate per leaf dry mass,0.2669172167306349,40,Leaf photosynthesis rate per leaf dry mass,LeafPhoto_mass,micro mol g-1 s-1,TRY
+Poa pratensis,Leaf photosynthesis rate per leaf dry mass,0.372669733415312,40,Leaf photosynthesis rate per leaf dry mass,LeafPhoto_mass,micro mol g-1 s-1,TRY
+Schizachyrium scoparium,Leaf photosynthesis rate per leaf dry mass,0.28781511397127857,40,Leaf photosynthesis rate per leaf dry mass,LeafPhoto_mass,micro mol g-1 s-1,TRY
+Solidago rigida,Leaf photosynthesis rate per leaf dry mass,0.154178,40,Leaf photosynthesis rate per leaf dry mass,LeafPhoto_mass,micro mol g-1 s-1,TRY
+Sorghastrum nutans,Leaf photosynthesis rate per leaf dry mass,0.29034089729903106,40,Leaf photosynthesis rate per leaf dry mass,LeafPhoto_mass,micro mol g-1 s-1,TRY
+Achillea millefolium,Leaf shape,0.174725,154,Leaf shape,LeafShape,cm/cm,TRY
+Amorpha canescens,Leaf shape,0.3603,154,Leaf shape,LeafShape,cm/cm,TRY
+Andropogon gerardi,Leaf shape,0.03755932203389831,154,Leaf shape,LeafShape,cm/cm,TRY
+Asclepias tuberosa,Leaf shape,0.20693999999999999,154,Leaf shape,LeafShape,cm/cm,TRY
+Petalostemum purpureum,Leaf shape,0.637,154,Leaf shape,LeafShape,cm/cm,TRY
+Koeleria macrantha,Leaf shape,0.033215,154,Leaf shape,LeafShape,cm/cm,TRY
+Lespedeza capitata,Leaf shape,1.0843214285714287,154,Leaf shape,LeafShape,cm/cm,TRY
+Liatris aspera,Leaf shape,0.102,154,Leaf shape,LeafShape,cm/cm,TRY
+Lupinus perennis,Leaf shape,0.6332375,154,Leaf shape,LeafShape,cm/cm,TRY
+Monarda fistulosa,Leaf shape,0.42228604651162793,154,Leaf shape,LeafShape,cm/cm,TRY
+Panicum virgatum,Leaf shape,0.0344,154,Leaf shape,LeafShape,cm/cm,TRY
+Poa pratensis,Leaf shape,0.0720529166625,154,Leaf shape,LeafShape,cm/cm,TRY
+Schizachyrium scoparium,Leaf shape,0.040678125,154,Leaf shape,LeafShape,cm/cm,TRY
+Solidago rigida,Leaf shape,0.305484,154,Leaf shape,LeafShape,cm/cm,TRY
+Sorghastrum nutans,Leaf shape,0.04600559525,154,Leaf shape,LeafShape,cm/cm,TRY
+Achillea millefolium,Leaf water content per leaf dry mass (not saturated),5.732164471554737,3120,Leaf water content per leaf dry mass (not saturated),LeafWater,g(W)/g(DM),TRY
+Amorpha canescens,Leaf water content per leaf dry mass (not saturated),2.4965392312389474,3120,Leaf water content per leaf dry mass (not saturated),LeafWater,g(W)/g(DM),TRY
+Andropogon gerardi,Leaf water content per leaf dry mass (not saturated),3.335742800857333,3120,Leaf water content per leaf dry mass (not saturated),LeafWater,g(W)/g(DM),TRY
+Asclepias tuberosa,Leaf water content per leaf dry mass (not saturated),6.597249790447907,3120,Leaf water content per leaf dry mass (not saturated),LeafWater,g(W)/g(DM),TRY
+Petalostemum purpureum,Leaf water content per leaf dry mass (not saturated),4.415681292966857,3120,Leaf water content per leaf dry mass (not saturated),LeafWater,g(W)/g(DM),TRY
+Koeleria macrantha,Leaf water content per leaf dry mass (not saturated),3.051481972829,3120,Leaf water content per leaf dry mass (not saturated),LeafWater,g(W)/g(DM),TRY
+Lespedeza capitata,Leaf water content per leaf dry mass (not saturated),3.055156382598,3120,Leaf water content per leaf dry mass (not saturated),LeafWater,g(W)/g(DM),TRY
+Liatris aspera,Leaf water content per leaf dry mass (not saturated),6.21224068591,3120,Leaf water content per leaf dry mass (not saturated),LeafWater,g(W)/g(DM),TRY
+Lupinus perennis,Leaf water content per leaf dry mass (not saturated),9.983675936794445,3120,Leaf water content per leaf dry mass (not saturated),LeafWater,g(W)/g(DM),TRY
+Monarda fistulosa,Leaf water content per leaf dry mass (not saturated),5.07547844571561,3120,Leaf water content per leaf dry mass (not saturated),LeafWater,g(W)/g(DM),TRY
+Panicum virgatum,Leaf water content per leaf dry mass (not saturated),3.9067179066383333,3120,Leaf water content per leaf dry mass (not saturated),LeafWater,g(W)/g(DM),TRY
+Poa pratensis,Leaf water content per leaf dry mass (not saturated),3.4866906769486272,3120,Leaf water content per leaf dry mass (not saturated),LeafWater,g(W)/g(DM),TRY
+Schizachyrium scoparium,Leaf water content per leaf dry mass (not saturated),2.910388895458889,3120,Leaf water content per leaf dry mass (not saturated),LeafWater,g(W)/g(DM),TRY
+Solidago rigida,Leaf water content per leaf dry mass (not saturated),5.103356037283478,3120,Leaf water content per leaf dry mass (not saturated),LeafWater,g(W)/g(DM),TRY
+Sorghastrum nutans,Leaf water content per leaf dry mass (not saturated),2.7677810664173683,3120,Leaf water content per leaf dry mass (not saturated),LeafWater,g(W)/g(DM),TRY
+Achillea millefolium,Leaflet number per leaf,1,759,Leaflet number per leaf,LeafletNum,1/leaf,TRY
+Amorpha canescens,Leaflet number per leaf,30,759,Leaflet number per leaf,LeafletNum,1/leaf,TRY
+Andropogon gerardi,Leaflet number per leaf,1,759,Leaflet number per leaf,LeafletNum,1/leaf,TRY
+Asclepias tuberosa,Leaflet number per leaf,1,759,Leaflet number per leaf,LeafletNum,1/leaf,TRY
+Petalostemum purpureum,Leaflet number per leaf,5,759,Leaflet number per leaf,LeafletNum,1/leaf,TRY
+Koeleria macrantha,Leaflet number per leaf,1,759,Leaflet number per leaf,LeafletNum,1/leaf,TRY
+Lespedeza capitata,Leaflet number per leaf,2,759,Leaflet number per leaf,LeafletNum,1/leaf,TRY
+Liatris aspera,Leaflet number per leaf,1,759,Leaflet number per leaf,LeafletNum,1/leaf,TRY
+Lupinus perennis,Leaflet number per leaf,9,759,Leaflet number per leaf,LeafletNum,1/leaf,TRY
+Monarda fistulosa,Leaflet number per leaf,1,759,Leaflet number per leaf,LeafletNum,1/leaf,TRY
+Panicum virgatum,Leaflet number per leaf,1,759,Leaflet number per leaf,LeafletNum,1/leaf,TRY
+Poa pratensis,Leaflet number per leaf,1,759,Leaflet number per leaf,LeafletNum,1/leaf,TRY
+Schizachyrium scoparium,Leaflet number per leaf,1,759,Leaflet number per leaf,LeafletNum,1/leaf,TRY
+Solidago rigida,Leaflet number per leaf,1,759,Leaflet number per leaf,LeafletNum,1/leaf,TRY
+Sorghastrum nutans,Leaflet number per leaf,1,759,Leaflet number per leaf,LeafletNum,1/leaf,TRY
+Achillea millefolium,Plant height generative,0.49657508680555557,3107,Plant height generative,PlantHeightGen,m,TRY
+Amorpha canescens,Plant height generative,0.7029333333333333,3107,Plant height generative,PlantHeightGen,m,TRY
+Andropogon gerardi,Plant height generative,1.459265625,3107,Plant height generative,PlantHeightGen,m,TRY
+Asclepias tuberosa,Plant height generative,0.6515609756097561,3107,Plant height generative,PlantHeightGen,m,TRY
+Petalostemum purpureum,Plant height generative,0.576,3107,Plant height generative,PlantHeightGen,m,TRY
+Koeleria macrantha,Plant height generative,0.27625,3107,Plant height generative,PlantHeightGen,m,TRY
+Lespedeza capitata,Plant height generative,0.7327209302325581,3107,Plant height generative,PlantHeightGen,m,TRY
+Liatris aspera,Plant height generative,0.979,3107,Plant height generative,PlantHeightGen,m,TRY
+Lupinus perennis,Plant height generative,0.3525,3107,Plant height generative,PlantHeightGen,m,TRY
+Monarda fistulosa,Plant height generative,0.8210357142857143,3107,Plant height generative,PlantHeightGen,m,TRY
+Panicum virgatum,Plant height generative,0.49350000000000005,3107,Plant height generative,PlantHeightGen,m,TRY
+Poa pratensis,Plant height generative,0.5866675531904255,3107,Plant height generative,PlantHeightGen,m,TRY
+Schizachyrium scoparium,Plant height generative,0.8376666666666667,3107,Plant height generative,PlantHeightGen,m,TRY
+Solidago rigida,Plant height generative,1.26646875,3107,Plant height generative,PlantHeightGen,m,TRY
+Sorghastrum nutans,Plant height generative,1.5035833333333333,3107,Plant height generative,PlantHeightGen,m,TRY
+Achillea millefolium,Plant height vegetative,0.19518067375886525,3106,Plant height vegetative,PlantHeightVeg,m,TRY
+Amorpha canescens,Plant height vegetative,0.5435267605633803,3106,Plant height vegetative,PlantHeightVeg,m,TRY
+Andropogon gerardi,Plant height vegetative,0.7921294339622641,3106,Plant height vegetative,PlantHeightVeg,m,TRY
+Asclepias tuberosa,Plant height vegetative,0.5263780821917808,3106,Plant height vegetative,PlantHeightVeg,m,TRY
+Petalostemum purpureum,Plant height vegetative,0.40647222222222223,3106,Plant height vegetative,PlantHeightVeg,m,TRY
+Koeleria macrantha,Plant height vegetative,0.1621766990291262,3106,Plant height vegetative,PlantHeightVeg,m,TRY
+Lespedeza capitata,Plant height vegetative,0.9335773515981735,3106,Plant height vegetative,PlantHeightVeg,m,TRY
+Liatris aspera,Plant height vegetative,0.7860357142857143,3106,Plant height vegetative,PlantHeightVeg,m,TRY
+Lupinus perennis,Plant height vegetative,0.24357142857142858,3106,Plant height vegetative,PlantHeightVeg,m,TRY
+Monarda fistulosa,Plant height vegetative,0.6598004892966362,3106,Plant height vegetative,PlantHeightVeg,m,TRY
+Panicum virgatum,Plant height vegetative,0.589365306122449,3106,Plant height vegetative,PlantHeightVeg,m,TRY
+Poa pratensis,Plant height vegetative,0.2845102776483191,3106,Plant height vegetative,PlantHeightVeg,m,TRY
+Schizachyrium scoparium,Plant height vegetative,0.5488650205761317,3106,Plant height vegetative,PlantHeightVeg,m,TRY
+Solidago rigida,Plant height vegetative,0.7742763157894736,3106,Plant height vegetative,PlantHeightVeg,m,TRY
+Sorghastrum nutans,Plant height vegetative,0.740659057591623,3106,Plant height vegetative,PlantHeightVeg,m,TRY
+Achillea millefolium,Seed dry mass,0.14192483469934858,26,Seed dry mass,Try_SeedDryMass,mg,TRY
+Amorpha canescens,Seed dry mass,1.8333000596177134,26,Seed dry mass,Try_SeedDryMass,mg,TRY
+Andropogon gerardi,Seed dry mass,2.432585290584344,26,Seed dry mass,Try_SeedDryMass,mg,TRY
+Asclepias tuberosa,Seed dry mass,3.5195950968340233,26,Seed dry mass,Try_SeedDryMass,mg,TRY
+Petalostemum purpureum,Seed dry mass,0.7568366666666666,26,Seed dry mass,Try_SeedDryMass,mg,TRY
+Koeleria macrantha,Seed dry mass,0.3733468261495602,26,Seed dry mass,Try_SeedDryMass,mg,TRY
+Lespedeza capitata,Seed dry mass,2.762117193968859,26,Seed dry mass,Try_SeedDryMass,mg,TRY
+Liatris aspera,Seed dry mass,1.1691018178727273,26,Seed dry mass,Try_SeedDryMass,mg,TRY
+Lupinus perennis,Seed dry mass,22.451583333333335,26,Seed dry mass,Try_SeedDryMass,mg,TRY
+Monarda fistulosa,Seed dry mass,2.7129310344827586,26,Seed dry mass,Try_SeedDryMass,mg,TRY
+Panicum virgatum,Seed dry mass,0.4593541222644055,26,Seed dry mass,Try_SeedDryMass,mg,TRY
+Poa pratensis,Seed dry mass,0.2708667942768085,26,Seed dry mass,Try_SeedDryMass,mg,TRY
+Schizachyrium scoparium,Seed dry mass,0.8801946883553797,26,Seed dry mass,Try_SeedDryMass,mg,TRY
+Solidago rigida,Seed dry mass,0.5204714285714286,26,Seed dry mass,Try_SeedDryMass,mg,TRY
+Sorghastrum nutans,Seed dry mass,1.4403070566347724,26,Seed dry mass,Try_SeedDryMass,mg,TRY
+Achillea millefolium,Stomata conductance per leaf area,267.30209707291664,45,Stomata conductance per leaf area,StomataConductance_area,milli mol m-2 s-1,TRY
+Amorpha canescens,Stomata conductance per leaf area,233.0000234708995,45,Stomata conductance per leaf area,StomataConductance_area,milli mol m-2 s-1,TRY
+Andropogon gerardi,Stomata conductance per leaf area,199.4696870836178,45,Stomata conductance per leaf area,StomataConductance_area,milli mol m-2 s-1,TRY
+Asclepias tuberosa,Stomata conductance per leaf area,188,45,Stomata conductance per leaf area,StomataConductance_area,milli mol m-2 s-1,TRY
+Petalostemum purpureum,Stomata conductance per leaf area,1209,45,Stomata conductance per leaf area,StomataConductance_area,milli mol m-2 s-1,TRY
+Koeleria macrantha,Stomata conductance per leaf area,244.89444444444445,45,Stomata conductance per leaf area,StomataConductance_area,milli mol m-2 s-1,TRY
+Lespedeza capitata,Stomata conductance per leaf area,297.13660399338625,45,Stomata conductance per leaf area,StomataConductance_area,milli mol m-2 s-1,TRY
+Liatris aspera,Stomata conductance per leaf area,220.0142857142857,45,Stomata conductance per leaf area,StomataConductance_area,milli mol m-2 s-1,TRY
+Lupinus perennis,Stomata conductance per leaf area,586.2127683333333,45,Stomata conductance per leaf area,StomataConductance_area,milli mol m-2 s-1,TRY
+Monarda fistulosa,Stomata conductance per leaf area,161.85,45,Stomata conductance per leaf area,StomataConductance_area,milli mol m-2 s-1,TRY
+Panicum virgatum,Stomata conductance per leaf area,139.33793553479853,45,Stomata conductance per leaf area,StomataConductance_area,milli mol m-2 s-1,TRY
+Poa pratensis,Stomata conductance per leaf area,268.30976190476184,45,Stomata conductance per leaf area,StomataConductance_area,milli mol m-2 s-1,TRY
+Schizachyrium scoparium,Stomata conductance per leaf area,142.10052006125358,45,Stomata conductance per leaf area,StomataConductance_area,milli mol m-2 s-1,TRY
+Solidago rigida,Stomata conductance per leaf area,386.92780425,45,Stomata conductance per leaf area,StomataConductance_area,milli mol m-2 s-1,TRY
+Sorghastrum nutans,Stomata conductance per leaf area,167.07412824123932,45,Stomata conductance per leaf area,StomataConductance_area,milli mol m-2 s-1,TRY
+Achillea millefolium,Stomata conductance per leaf dry mass,5.648277657461237,106,Stomata conductance per leaf dry mass,StomataConductance_mass,milli mol g-1 s-1,TRY
+Amorpha canescens,Stomata conductance per leaf dry mass,4.76704559935982,106,Stomata conductance per leaf dry mass,StomataConductance_mass,milli mol g-1 s-1,TRY
+Andropogon gerardi,Stomata conductance per leaf dry mass,5.204145835795303,106,Stomata conductance per leaf dry mass,StomataConductance_mass,milli mol g-1 s-1,TRY
+Asclepias tuberosa,Stomata conductance per leaf dry mass,2.2748,106,Stomata conductance per leaf dry mass,StomataConductance_mass,milli mol g-1 s-1,TRY
+Petalostemum purpureum,Stomata conductance per leaf dry mass,9.06750000000001,106,Stomata conductance per leaf dry mass,StomataConductance_mass,milli mol g-1 s-1,TRY
+Koeleria macrantha,Stomata conductance per leaf dry mass,3.4625480300285716,106,Stomata conductance per leaf dry mass,StomataConductance_mass,milli mol g-1 s-1,TRY
+Lespedeza capitata,Stomata conductance per leaf dry mass,3.71618656086049,106,Stomata conductance per leaf dry mass,StomataConductance_mass,milli mol g-1 s-1,TRY
+Liatris aspera,Stomata conductance per leaf dry mass,1.8328826047122857,106,Stomata conductance per leaf dry mass,StomataConductance_mass,milli mol g-1 s-1,TRY
+Lupinus perennis,Stomata conductance per leaf dry mass,10.29670036780752,106,Stomata conductance per leaf dry mass,StomataConductance_mass,milli mol g-1 s-1,TRY
+Monarda fistulosa,Stomata conductance per leaf dry mass,2.702308583655,106,Stomata conductance per leaf dry mass,StomataConductance_mass,milli mol g-1 s-1,TRY
+Panicum virgatum,Stomata conductance per leaf dry mass,2.6854052433960507,106,Stomata conductance per leaf dry mass,StomataConductance_mass,milli mol g-1 s-1,TRY
+Poa pratensis,Stomata conductance per leaf dry mass,5.222475,106,Stomata conductance per leaf dry mass,StomataConductance_mass,milli mol g-1 s-1,TRY
+Schizachyrium scoparium,Stomata conductance per leaf dry mass,2.312385304757015,106,Stomata conductance per leaf dry mass,StomataConductance_mass,milli mol g-1 s-1,TRY
+Solidago rigida,Stomata conductance per leaf dry mass,3.8121430294616423,106,Stomata conductance per leaf dry mass,StomataConductance_mass,milli mol g-1 s-1,TRY
+Sorghastrum nutans,Stomata conductance per leaf dry mass,1.9327379124899655,106,Stomata conductance per leaf dry mass,StomataConductance_mass,milli mol g-1 s-1,TRY

@@ -1,0 +1,16 @@
+Specid,Specid_5,ccesr_name,name_hyphen,Search,Output.Taxon,Input.Genus,funcgroup,funcgroup_noc3,Clade,Order,Family,UID_codes,NCBI_url,taxize_clade_id
+Achimill,Achmi,Achillea millefolium(lanulosa),Achillea_millefolium,Achillea millefolium,Achillea millefolium L. ,Achillea,Forb,Forb,Asterids,Asterales,Asteraceae,13329,https://www.ncbi.nlm.nih.gov/taxonomy/13329,71274
+Amorcane,Amoca,Amorpha canescens,Amorpha_canescens,Amorpha canescens,Amorpha canescens Pursh ,Amorpha,Legume,Legume,Fabaceae,Fabales,Fabaceae,252450,https://www.ncbi.nlm.nih.gov/taxonomy/252450,3803
+Andrgera,Andge,Andropogon gerardi,Andropogon_gerardi,Andropogon gerardi,Andropogon gerardii Vitman ,Andropogon,C4_Grass,Grass,Poaceae,Poales,Poaceae,79824,https://www.ncbi.nlm.nih.gov/taxonomy/79824,4479
+Ascltube,Asctu,Asclepias tuberosa,Asclepias_tuberosa,Asclepias tuberosa,Asclepias tuberosa L. ,Asclepias,Forb,Forb,Asterids,Gentianales,Apocynaceae,141466,https://www.ncbi.nlm.nih.gov/taxonomy/141466,71274
+Koelcris,Koecr,Koeleria cristata,Koeleria_cristata,Koeleria macrantha,Koeleria macrantha (Ledeb.) Schult. ,Koeleria,C3_Grass,Grass,Poaceae,Poales,Poaceae,366481,https://www.ncbi.nlm.nih.gov/taxonomy/366481,4479
+Lespcapi,Lesca,Lespedeza capitata,Lespedeza_capitata,Lespedeza capitata,Lespedeza capitata Michx. ,Lespedeza,Legume,Legume,Fabaceae,Fabales,Fabaceae,571920,https://www.ncbi.nlm.nih.gov/taxonomy/571920,3803
+Liataspe,Liaas,Liatris aspera,Liatris_aspera,Liatris aspera,Liatris aspera Michx. ,Liatris,Forb,Forb,Asterids,Asterales,Asteraceae,983213,https://www.ncbi.nlm.nih.gov/taxonomy/983213,71274
+Lupipere,Luppe,Lupinus perennis,Lupinus_perennis,Lupinus perennis,Lupinus perennis L. ,Lupinus,Legume,Legume,Fabaceae,Fabales,Fabaceae,53236,https://www.ncbi.nlm.nih.gov/taxonomy/53236,3803
+Monafist,Monfi,Monarda fistulosa,Monarda_fistulosa,Monarda fistulosa,Monarda fistulosa L. ,Monarda,Forb,Forb,Asterids,Lamiales,Lamiaceae,39344,https://www.ncbi.nlm.nih.gov/taxonomy/39344,71274
+Panivirg,Panvi,Panicum virgatum,Panicum_virgatum,Panicum virgatum,Panicum virgatum L. ,Panicum,C4_Grass,Grass,Poaceae,Poales,Poaceae,38727,https://www.ncbi.nlm.nih.gov/taxonomy/38727,4479
+Petapurp,Petpu,Petalostemum purpureum,Petalostemum_purpureum,Dalea purpurea,Dalea purpurea Vent. ,Dalea,Legume,Legume,Fabaceae,Fabales,Fabaceae,248511,https://www.ncbi.nlm.nih.gov/taxonomy/248511,3803
+Poaprate,Poapr,Poa pratensis,Poa_pratensis,Poa pratensis,Poa pratensis L. ,Poa,C3_Grass,Grass,Poaceae,Poales,Poaceae,4545,https://www.ncbi.nlm.nih.gov/taxonomy/4545,4479
+Schiscop,Schsc,Schizachyrium scoparium,Schizachyrium_scoparium,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,Schizachyrium,C4_Grass,Grass,Poaceae,Poales,Poaceae,79855,https://www.ncbi.nlm.nih.gov/taxonomy/79855,4479
+Solirigi,Solri,Solidago rigida,Solidago_rigida,Solidago rigida,Solidago rigida L. ,Solidago,Forb,Forb,Asterids,Asterales,Asteraceae,199521,https://www.ncbi.nlm.nih.gov/taxonomy/199521,71274
+Sorgnuta,Sornu,Sorghastrum nutans,Sorghastrum_nutans,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,Sorghastrum,C4_Grass,Grass,Poaceae,Poales,Poaceae,79857,https://www.ncbi.nlm.nih.gov/taxonomy/79857,4479

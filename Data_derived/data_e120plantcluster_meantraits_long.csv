@@ -1,0 +1,631 @@
+Species,funcgroup,funcgroup_noc3,Family,Clade,ccesr_name,Output.Taxon,VarName,val
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,Aluminum,0.0108
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,Boron,0.0034
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,Calcium,1.2128571428571429
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,Carbon,42.91092857142857
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,Copper,7.428571428571429e-4
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,Iron,0.0178
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,Magnesium,0.22857142857142856
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,Manganese,0.011728571428571428
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,Nitrogen,0.9142857142857143
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,Phosphorus,0.3142857142857143
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,Potassium,2.132857142857143
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,Sodium,0.01
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,Sulfur,0.05714285714285714
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,Zinc,0.002042857142857143
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,Local_LeafBladeArea,9.370033333
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,Local_P.A,7.625862115
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,Local_P.A.L,1.547935759
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,Local_SLA_pet_ex,115.5779025
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,Local_SeedDryMass,6.25e-5
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,Local_Height,0.9144
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,FineRootDiameter,0.4575340625
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,FineRootTissueDensity,0.238732338
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,LeafArea,592.5391372547866
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,TRY_SLA_pet_ex,14.2235977957523
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,TRY_SLA_pet_inc,16.54752411363936
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,TRY_SLA_pet_undef,14.462571223708343
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,LeafDelta13Carbon,-29.421750685714287
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,LeafDryMassSingle,40.05855406819162
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,LDMC,0.2398636711832584
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,LeafFreshMass,0.14310544303797468
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,LeafNitrogen,25.530981914036
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,LeafDelta15Nitrogen,-2.3529411764705883
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,LeafPhoto_area,15.934576400538761
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,LeafPhoto_mass,0.2876417440634685
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,LeafShape,0.174725
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,LeafWater,5.732164471554737
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,LeafletNum,1
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,PlantHeightGen,0.49657508680555557
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,PlantHeightVeg,0.19518067375886525
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,Try_SeedDryMass,0.14192483469934858
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,StomataConductance_area,267.30209707291664
+Achmi,Forb,Forb,Asteraceae,Asterids,Achillea millefolium(lanulosa),Achillea millefolium L. ,StomataConductance_mass,5.648277657461237
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,Aluminum,0.0028857142857142857
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,Boron,0.002514285714285714
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,Calcium,1.312857142857143
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,Carbon,46.874071428571426
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,Copper,4.857142857142857e-4
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,Iron,0.0038285714285714286
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,Magnesium,0.15
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,Manganese,0.01767142857142857
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,Nitrogen,1.4985714285714287
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,Phosphorus,0.19285714285714284
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,Potassium,0.9271428571428572
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,Sodium,0.01
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,Sulfur,0.05857142857142857
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,Zinc,0.0010142857142857143
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,Local_LeafBladeArea,9.630133333
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,Local_P.A,10.9203095
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,Local_P.A.L,0.492759565
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,Local_SLA_pet_ex,90.78938792
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,Local_SeedDryMass,0.0023726
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,Local_Height,1.2192
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,FineRootDiameter,0.1938
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,FineRootTissueDensity,0.585778
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,LeafArea,2232.8333333333335
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,TRY_SLA_pet_ex,25.89918032867775
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,TRY_SLA_pet_inc,16.88540031368357
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,TRY_SLA_pet_undef,14.720446901
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,LeafDelta13Carbon,-27.02
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,LeafDryMassSingle,99.76583333333333
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,LDMC,0.3920418256328133
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,LeafFreshMass,0.3061
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,LeafNitrogen,24.643566639333333
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,LeafDelta15Nitrogen,-1.9080000000000001
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,LeafPhoto_area,11.033612742800502
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,LeafPhoto_mass,0.224
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,LeafShape,0.3603
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,LeafWater,2.4965392312389474
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,LeafletNum,30
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,PlantHeightGen,0.7029333333333333
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,PlantHeightVeg,0.5435267605633803
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,Try_SeedDryMass,1.8333000596177134
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,StomataConductance_area,233.0000234708995
+Amoca,Legume,Legume,Fabaceae,Fabaceae,Amorpha canescens,Amorpha canescens Pursh ,StomataConductance_mass,4.76704559935982
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,Aluminum,0.0033857142857142857
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,Boron,5.571428571428572e-4
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,Calcium,0.6257142857142857
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,Carbon,44.16214285714286
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,Copper,2.7142857142857144e-4
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,Iron,0.0027571428571428573
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,Magnesium,0.1757142857142857
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,Manganese,0.0051
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,Nitrogen,0.7085714285714285
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,Phosphorus,0.22857142857142856
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,Potassium,0.9557142857142856
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,Sodium,0.01
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,Sulfur,0.047142857142857146
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,Zinc,0.0015714285714285713
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,Local_LeafBladeArea,8.104366667
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,Local_P.A,7.070340957
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,Local_P.A.L,3.158165697
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,Local_SLA_pet_ex,100.6045416
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,Local_SeedDryMass,9.25e-4
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,Local_Height,2.4384
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,FineRootDiameter,0.290065
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,FineRootTissueDensity,0.31984250000000003
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,LeafArea,1262.997111111111
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,TRY_SLA_pet_ex,22.7780384870937
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,TRY_SLA_pet_inc,17.434907968087362
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,TRY_SLA_pet_undef,18.197787036497825
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,LeafDelta13Carbon,-12.475
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,LeafDryMassSingle,76.80666666666667
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,LDMC,0.34993729387611877
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,LeafFreshMass,0.21309155555555556
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,LeafNitrogen,13.098748958125
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,LeafDelta15Nitrogen,-1.0933333333333333
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,LeafPhoto_area,19.461351919210784
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,LeafPhoto_mass,0.3107467537419463
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,LeafShape,0.03755932203389831
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,LeafWater,3.335742800857333
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,LeafletNum,1
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,PlantHeightGen,1.459265625
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,PlantHeightVeg,0.7921294339622641
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,Try_SeedDryMass,2.432585290584344
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,StomataConductance_area,199.4696870836178
+Andge,C4_Grass,Grass,Poaceae,Poaceae,Andropogon gerardi,Andropogon gerardii Vitman ,StomataConductance_mass,5.204145835795303
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,Aluminum,0.010233333333333334
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,Boron,0.002266666666666667
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,Calcium,1.7266666666666666
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,Carbon,41.6355
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,Copper,7e-4
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,Iron,0.02225
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,Magnesium,0.3
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,Manganese,0.008116666666666666
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,Nitrogen,1.49
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,Phosphorus,0.29833333333333334
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,Potassium,1.7166666666666668
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,Sodium,0.015
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,Sulfur,0.10666666666666666
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,Zinc,0.0023833333333333332
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,Local_LeafBladeArea,6.673888889
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,Local_P.A,2.752107537
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,Local_P.A.L,2.995940701
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,Local_SLA_pet_ex,160.9413706
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,Local_SeedDryMass,0.00717
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,Local_Height,0.6096
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,FineRootDiameter,0.5
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,FineRootTissueDensity,0.22
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,LeafArea,1143.48
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,TRY_SLA_pet_ex,24.2877068512294
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,TRY_SLA_pet_inc,17.6076231427353
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,TRY_SLA_pet_undef,19.413898973964287
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,LeafDelta13Carbon,-27.975
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,LeafDryMassSingle,62.33
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,LDMC,0.22402292875729668
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,LeafFreshMass,0.22340909090909092
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,LeafNitrogen,28.799966666666666
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,LeafDelta15Nitrogen,0.365
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,LeafPhoto_area,11.3
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,LeafPhoto_mass,0.13673
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,LeafShape,0.20693999999999999
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,LeafWater,6.597249790447907
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,LeafletNum,1
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,PlantHeightGen,0.6515609756097561
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,PlantHeightVeg,0.5263780821917808
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,Try_SeedDryMass,3.5195950968340233
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,StomataConductance_area,188
+Asctu,Forb,Forb,Apocynaceae,Asterids,Asclepias tuberosa,Asclepias tuberosa L. ,StomataConductance_mass,2.2748
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,Aluminum,0.005714285714285714
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,Boron,7.285714285714286e-4
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,Calcium,0.46285714285714286
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,Carbon,43.34721428571429
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,Copper,3.4285714285714285e-4
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,Iron,0.006885714285714286
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,Magnesium,0.17142857142857143
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,Manganese,0.0054428571428571425
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,Nitrogen,0.8471428571428572
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,Phosphorus,0.17857142857142858
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,Potassium,0.9414285714285714
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,Sodium,0.014285714285714285
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,Sulfur,0.055714285714285716
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,Zinc,0.001542857142857143
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,Local_LeafBladeArea,0.726533333
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,Local_P.A,41.02087959
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,Local_P.A.L,0.31820969
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,Local_SLA_pet_ex,35.70485863
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,Local_SeedDryMass,2.972e-4
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,Local_Height,0.4572
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,FineRootDiameter,0.148893333335
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,FineRootTissueDensity,0.38172662246
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,LeafArea,126.31518827160494
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,TRY_SLA_pet_ex,12.934632856593325
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,TRY_SLA_pet_inc,18.245180114799425
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,TRY_SLA_pet_undef,12.048521220009615
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,LeafDelta13Carbon,-28.542
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,LeafDryMassSingle,6.839545454545455
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,LDMC,0.3418959787642674
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,LeafFreshMass,0.014072727272727273
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,LeafNitrogen,20.475098885712896
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,LeafDelta15Nitrogen,-1.198
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,LeafPhoto_area,14.467782369185683
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,LeafPhoto_mass,0.22448364875866667
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,LeafShape,0.033215
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,LeafWater,3.051481972829
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,LeafletNum,1
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,PlantHeightGen,0.27625
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,PlantHeightVeg,0.1621766990291262
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,Try_SeedDryMass,0.3733468261495602
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,StomataConductance_area,244.89444444444445
+Koecr,C3_Grass,Grass,Poaceae,Poaceae,Koeleria cristata,Koeleria macrantha (Ledeb.) Schult. ,StomataConductance_mass,3.4625480300285716
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,Aluminum,0.0039625
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,Boron,0.0018124999999999999
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,Calcium,1.31
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,Carbon,45.89828571428571
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,Copper,6.625e-4
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,Iron,0.004775
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,Magnesium,0.26125
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,Manganese,0.015287499999999999
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,Nitrogen,1.58
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,Phosphorus,0.18875
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,Potassium,0.68125
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,Sodium,0.015
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,Sulfur,0.065
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,Zinc,0.0012374999999999999
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,Local_LeafBladeArea,7.2058
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,Local_P.A,3.096927118
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,Local_P.A.L,1.7270093
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,Local_SLA_pet_ex,109.3157053
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,Local_SeedDryMass,0.003
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,Local_Height,0.79248
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,FineRootDiameter,0.333275
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,FineRootTissueDensity,0.2440045
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,LeafArea,604.9960377358491
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,TRY_SLA_pet_ex,20.88374903438007
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,TRY_SLA_pet_inc,12.679935761370798
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,TRY_SLA_pet_undef,13.714720204999999
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,LeafDelta13Carbon,-29.03
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,LeafDryMassSingle,46.079802259887
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,LDMC,0.3798265646148605
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,LeafFreshMass,0.1313
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,LeafNitrogen,22.705878655714287
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,LeafDelta15Nitrogen,-1.79125
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,LeafPhoto_area,14.334064787731158
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,LeafPhoto_mass,0.17978765937459554
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,LeafShape,1.0843214285714287
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,LeafWater,3.055156382598
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,LeafletNum,2
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,PlantHeightGen,0.7327209302325581
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,PlantHeightVeg,0.9335773515981735
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,Try_SeedDryMass,2.762117193968859
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,StomataConductance_area,297.13660399338625
+Lesca,Legume,Legume,Fabaceae,Fabaceae,Lespedeza capitata,Lespedeza capitata Michx. ,StomataConductance_mass,3.71618656086049
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,Aluminum,0.0032375
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,Boron,0.0028
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,Calcium,1.24
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,Carbon,44.5539375
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,Copper,2.625e-4
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,Iron,0.0034625
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,Magnesium,0.40125
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,Manganese,0.016425
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,Nitrogen,0.6637500000000001
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,Phosphorus,0.10125
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,Potassium,1.315
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,Sodium,0.01
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,Sulfur,0.05125
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,Zinc,0.0045
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,Local_LeafBladeArea,1.371366667
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,Local_P.A,8.039686304
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,Local_P.A.L,0.645116148
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,Local_SLA_pet_ex,81.534942
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,Local_SeedDryMass,0.0018
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,Local_Height,1.2192
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,FineRootDiameter,0.33586
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,FineRootTissueDensity,0.1353135
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,LeafArea,506
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,TRY_SLA_pet_ex,11.93781763111202
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,TRY_SLA_pet_inc,10.475200099403704
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,TRY_SLA_pet_undef,13.00435132482353
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,LeafDelta13Carbon,-30.83
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,LeafDryMassSingle,21.935
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,LDMC,0.260191243502618
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,LeafFreshMass,0.10326
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,LeafNitrogen,12.363817470869565
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,LeafDelta15Nitrogen,-2.6919999999999997
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,LeafPhoto_area,11.915555555555557
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,LeafPhoto_mass,0.12395544770385714
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,LeafShape,0.102
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,LeafWater,6.21224068591
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,LeafletNum,1
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,PlantHeightGen,0.979
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,PlantHeightVeg,0.7860357142857143
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,Try_SeedDryMass,1.1691018178727273
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,StomataConductance_area,220.0142857142857
+Liaas,Forb,Forb,Asteraceae,Asterids,Liatris aspera,Liatris aspera Michx. ,StomataConductance_mass,1.8328826047122857
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,Aluminum,0.005457142857142857
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,Boron,0.0015857142857142858
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,Calcium,1.7357142857142858
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,Carbon,43.50335714285714
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,Copper,4.4285714285714284e-4
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,Iron,0.005328571428571428
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,Magnesium,0.36428571428571427
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,Manganese,0.007414285714285714
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,Nitrogen,1.877142857142857
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,Phosphorus,0.20285714285714285
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,Potassium,0.9742857142857143
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,Sodium,0.01
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,Sulfur,0.08714285714285715
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,Zinc,7.285714285714286e-4
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,Local_LeafBladeArea,20.0927
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,Local_P.A,2.746273588
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,Local_P.A.L,2.774920901
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,Local_SLA_pet_ex,148.7253784
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,Local_SeedDryMass,0.029089905
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,Local_Height,0.6
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,FineRootDiameter,0.34
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,FineRootTissueDensity,0.32
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,LeafArea,1886.848109
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,TRY_SLA_pet_ex,21.081
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,TRY_SLA_pet_inc,22.450582653175836
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,TRY_SLA_pet_undef,18.404347651941176
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,LeafDelta13Carbon,-29.5
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,LeafDryMassSingle,132.4
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,LDMC,0.1396701020251912
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,LeafFreshMass,0.94027
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,LeafNitrogen,31.68693434357143
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,LeafDelta15Nitrogen,-0.7325
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,LeafPhoto_area,16.89665953604226
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,LeafPhoto_mass,0.344744
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,LeafShape,0.6332375
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,LeafWater,9.983675936794445
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,LeafletNum,9
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,PlantHeightGen,0.3525
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,PlantHeightVeg,0.24357142857142858
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,Try_SeedDryMass,22.451583333333335
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,StomataConductance_area,586.2127683333333
+Luppe,Legume,Legume,Fabaceae,Fabaceae,Lupinus perennis,Lupinus perennis L. ,StomataConductance_mass,10.29670036780752
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,Aluminum,0.0033714285714285717
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,Boron,0.0029285714285714284
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,Calcium,1.6414285714285715
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,Carbon,44.39207142857143
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,Copper,4.714285714285714e-4
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,Iron,0.004242857142857143
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,Magnesium,0.30857142857142855
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,Manganese,0.0059
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,Nitrogen,0.8885714285714286
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,Phosphorus,0.15
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,Potassium,1.5757142857142856
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,Sodium,0.01
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,Sulfur,0.06714285714285714
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,Zinc,0.001257142857142857
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,Local_LeafBladeArea,9.833133333
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,Local_P.A,1.785515034
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,Local_P.A.L,3.470022008
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,Local_SLA_pet_ex,150.1920737
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,Local_SeedDryMass,3e-4
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,Local_Height,1.49352
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,FineRootDiameter,0.27182
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,FineRootTissueDensity,0.191791
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,LeafArea,807.5717525773196
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,TRY_SLA_pet_ex,26.50217784816326
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,TRY_SLA_pet_inc,19.061833293750155
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,TRY_SLA_pet_undef,20.26225272154762
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,LeafDelta13Carbon,-28.645000000000003
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,LeafDryMassSingle,50.002941176470586
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,LDMC,0.2508642321346669
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,LeafFreshMass,0.2046925
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,LeafNitrogen,16.597702686666665
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,LeafDelta15Nitrogen,-0.9925
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,LeafPhoto_area,9.250976666666666
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,LeafPhoto_mass,0.18432556891980867
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,LeafShape,0.42228604651162793
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,LeafWater,5.07547844571561
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,LeafletNum,1
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,PlantHeightGen,0.8210357142857143
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,PlantHeightVeg,0.6598004892966362
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,Try_SeedDryMass,2.7129310344827586
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,StomataConductance_area,161.85
+Monfi,Forb,Forb,Lamiaceae,Asterids,Monarda fistulosa,Monarda fistulosa L. ,StomataConductance_mass,2.702308583655
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,Aluminum,0.0022166666666666667
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,Boron,3.5e-4
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,Calcium,0.4683333333333334
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,Carbon,44.24433333333333
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,Copper,3.8333333333333334e-4
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,Iron,0.0025499999999999997
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,Magnesium,0.19
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,Manganese,0.004116666666666667
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,Nitrogen,0.605
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,Phosphorus,0.18666666666666668
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,Potassium,0.725
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,Sodium,0.01
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,Sulfur,0.051666666666666666
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,Zinc,9.666666666666667e-4
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,Local_LeafBladeArea,7.796016667
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,Local_P.A,7.2087623260000004
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,Local_P.A.L,3.07238967
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,Local_SLA_pet_ex,110.7149871
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,Local_SeedDryMass,0.0021782
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,Local_Height,1.8288
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,FineRootDiameter,0.2428
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,FineRootTissueDensity,0.27406600000000003
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,LeafArea,2101.3844444444444
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,TRY_SLA_pet_ex,20.63090606909371
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,TRY_SLA_pet_inc,14.107052615375729
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,TRY_SLA_pet_undef,21.73370928657355
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,LeafDelta13Carbon,-12.83
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,LeafDryMassSingle,99.37025
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,LDMC,0.4644645760369738
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,LeafFreshMass,0.4437641666666667
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,LeafNitrogen,16.708745041627086
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,LeafDelta15Nitrogen,0.432
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,LeafPhoto_area,17.17947687458326
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,LeafPhoto_mass,0.2669172167306349
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,LeafShape,0.0344
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,LeafWater,3.9067179066383333
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,LeafletNum,1
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,PlantHeightGen,0.49350000000000005
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,PlantHeightVeg,0.589365306122449
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,Try_SeedDryMass,0.4593541222644055
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,StomataConductance_area,139.33793553479853
+Panvi,C4_Grass,Grass,Poaceae,Poaceae,Panicum virgatum,Panicum virgatum L. ,StomataConductance_mass,2.6854052433960507
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,Aluminum,0.0030875000000000004
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,Boron,0.0017
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,Calcium,1.505
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,Carbon,44.39585714285714
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,Copper,4.875e-4
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,Iron,0.00325
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,Magnesium,0.24875
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,Manganese,0.0078125
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,Nitrogen,1.5075
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,Phosphorus,0.19625
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,Potassium,0.86125
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,Sodium,0.01
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,Sulfur,0.06125
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,Zinc,0.002225
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,Local_LeafBladeArea,0.439666667
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,Local_P.A,19.14934871
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,Local_P.A.L,0.090524033
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,Local_SLA_pet_ex,103.7185604
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,Local_SeedDryMass,0.001889968
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,Local_Height,0.9144
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,FineRootDiameter,0.3316
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,FineRootTissueDensity,0.19375
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,LeafArea,100.82142857142857
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,TRY_SLA_pet_ex,17.515776762871074
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,TRY_SLA_pet_inc,8.959487806765464
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,TRY_SLA_pet_undef,12.442500395169356
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,LeafDelta13Carbon,-27.84
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,LeafDryMassSingle,7.700972222222222
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,LDMC,0.2967595343218814
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,LeafFreshMass,0.03065470588235294
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,LeafNitrogen,21.143333333333334
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,LeafDelta15Nitrogen,-2.99
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,LeafPhoto_area,36.6
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,LeafPhoto_mass,0.2745
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,LeafShape,0.637
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,LeafWater,4.415681292966857
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,LeafletNum,5
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,PlantHeightGen,0.576
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,PlantHeightVeg,0.40647222222222223
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,Try_SeedDryMass,0.7568366666666666
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,StomataConductance_area,1209
+Petpu,Legume,Legume,Fabaceae,Fabaceae,Petalostemum purpureum,Dalea purpurea Vent. ,StomataConductance_mass,9.06750000000001
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,Aluminum,0.002033333333333333
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,Boron,5.666666666666667e-4
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,Calcium,0.43833333333333335
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,Carbon,43.658
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,Copper,1.6666666666666666e-4
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,Iron,0.001966666666666667
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,Magnesium,0.185
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,Manganese,0.00475
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,Nitrogen,0.61
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,Phosphorus,0.155
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,Potassium,0.9883333333333333
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,Sodium,0.01
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,Sulfur,0.051666666666666666
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,Zinc,7.333333333333333e-4
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,Local_LeafBladeArea,1.004518519
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,Local_P.A,37.61160425
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,Local_P.A.L,0.375920452
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,Local_SLA_pet_ex,60.30456214
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,Local_SeedDryMass,2.161e-4
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,Local_Height,0.4572
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,FineRootDiameter,0.4185507142857143
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,FineRootTissueDensity,0.29739143755
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,LeafArea,590.7961496267156
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,TRY_SLA_pet_ex,24.524232285258762
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,TRY_SLA_pet_inc,19.833521466190422
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,TRY_SLA_pet_undef,18.88935088711842
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,LeafDelta13Carbon,-28.424500000000002
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,LeafDryMassSingle,43.550848386694675
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,LDMC,0.33005859593405584
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,LeafFreshMass,0.12778701754385965
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,LeafNitrogen,18.338872985016316
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,LeafDelta15Nitrogen,0.004736842105263162
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,LeafPhoto_area,17.627470118314264
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,LeafPhoto_mass,0.372669733415312
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,LeafShape,0.0720529166625
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,LeafWater,3.4866906769486272
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,LeafletNum,1
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,PlantHeightGen,0.5866675531904255
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,PlantHeightVeg,0.2845102776483191
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,Try_SeedDryMass,0.2708667942768085
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,StomataConductance_area,268.30976190476184
+Poapr,C3_Grass,Grass,Poaceae,Poaceae,Poa pratensis,Poa pratensis L. ,StomataConductance_mass,5.222475
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,Aluminum,0.002425
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,Boron,4.5e-4
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,Calcium,0.5237499999999999
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,Carbon,44.0711875
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,Copper,3.125e-4
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,Iron,0.0032874999999999996
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,Magnesium,0.1725
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,Manganese,0.0053125
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,Nitrogen,0.7075
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,Phosphorus,0.20375
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,Potassium,1.0462500000000001
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,Sodium,0.01
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,Sulfur,0.05375
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,Zinc,0.00145
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,Local_LeafBladeArea,2.0316
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,Local_P.A,13.49459028
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,Local_P.A.L,0.964009131
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,Local_SLA_pet_ex,123.8710476
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,Local_SeedDryMass,0.0014
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,Local_Height,0.9144
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,FineRootDiameter,0.32821666666666666
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,FineRootTissueDensity,0.29098403824999997
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,LeafArea,687.3038095238095
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,TRY_SLA_pet_ex,18.740799057281098
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,TRY_SLA_pet_inc,17.221052194901326
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,TRY_SLA_pet_undef,18.17762664920617
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,LeafDelta13Carbon,-13.857
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,LeafDryMassSingle,35.136584062196306
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,LDMC,0.3792099883433704
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,LeafFreshMass,0.13041214285714287
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,LeafNitrogen,11.90849986974359
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,LeafDelta15Nitrogen,-1.841
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,LeafPhoto_area,14.764039011784241
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,LeafPhoto_mass,0.28781511397127857
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,LeafShape,0.040678125
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,LeafWater,2.910388895458889
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,LeafletNum,1
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,PlantHeightGen,0.8376666666666667
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,PlantHeightVeg,0.5488650205761317
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,Try_SeedDryMass,0.8801946883553797
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,StomataConductance_area,142.10052006125358
+Schsc,C4_Grass,Grass,Poaceae,Poaceae,Schizachyrium scoparium,Schizachyrium scoparium (Michx.) Nash ,StomataConductance_mass,2.312385304757015
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,Aluminum,0.0044428571428571425
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,Boron,0.0034857142857142856
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,Calcium,1.4528571428571428
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,Carbon,42.59328571428571
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,Copper,4.857142857142857e-4
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,Iron,0.005728571428571428
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,Magnesium,0.3271428571428571
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,Manganese,0.006542857142857143
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,Nitrogen,0.6671428571428571
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,Phosphorus,0.17714285714285713
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,Potassium,1.987142857142857
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,Sodium,0.011428571428571429
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,Sulfur,0.05714285714285714
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,Zinc,0.0013285714285714285
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,Local_LeafBladeArea,25.901
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,Local_P.A,1.249482888
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,Local_P.A.L,11.27718062
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,Local_SLA_pet_ex,97.92309288
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,Local_SeedDryMass,0.007268667
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,Local_Height,1
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,FineRootDiameter,0.48237341085333335
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,FineRootTissueDensity,0.21278011832666666
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,LeafArea,3537.8596428571427
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,TRY_SLA_pet_ex,7.62195121951219
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,TRY_SLA_pet_inc,12.504054826100973
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,TRY_SLA_pet_undef,11.738761780212121
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,LeafDelta13Carbon,-30.215
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,LeafDryMassSingle,338.99545454545455
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,LDMC,0.2591490919497893
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,LeafFreshMass,1.2100055555555556
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,LeafNitrogen,12.432366622941176
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,LeafDelta15Nitrogen,-2.4944444444444445
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,LeafPhoto_area,15.8770666517728
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,LeafPhoto_mass,0.154178
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,LeafShape,0.305484
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,LeafWater,5.103356037283478
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,LeafletNum,1
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,PlantHeightGen,1.26646875
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,PlantHeightVeg,0.7742763157894736
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,Try_SeedDryMass,0.5204714285714286
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,StomataConductance_area,386.92780425
+Solri,Forb,Forb,Asteraceae,Asterids,Solidago rigida,Solidago rigida L. ,StomataConductance_mass,3.8121430294616423
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,Aluminum,0.003988888888888889
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,Boron,5.777777777777779e-4
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,Calcium,0.6277777777777778
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,Carbon,43.816833333333335
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,Copper,3.1111111111111107e-4
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,Iron,0.005577777777777778
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,Magnesium,0.17555555555555555
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,Manganese,0.007844444444444444
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,Nitrogen,0.6955555555555556
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,Phosphorus,0.1811111111111111
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,Potassium,0.9677777777777777
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,Sodium,0.01
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,Sulfur,0.04777777777777778
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,Zinc,0.0019333333333333333
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,Local_LeafBladeArea,7.168
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,Local_P.A,8.086917086
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,Local_P.A.L,2.961299419
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,Local_SLA_pet_ex,89.82187192
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,Local_SeedDryMass,0.0012943
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,Local_Height,1.2192
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,FineRootDiameter,0.253555
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,FineRootTissueDensity,0.24489100000000003
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,LeafArea,1829.51425
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,TRY_SLA_pet_ex,17.735549612846217
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,TRY_SLA_pet_inc,14.390352914536118
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,TRY_SLA_pet_undef,15.95714973906479
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,LeafDelta13Carbon,-11.64
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,LeafDryMassSingle,97.55236714975845
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,LDMC,0.38402707365025346
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,LeafFreshMass,0.32318833333333336
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,LeafNitrogen,13.387116182537314
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,LeafDelta15Nitrogen,-1.638125
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,LeafPhoto_area,22.426187206920147
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,LeafPhoto_mass,0.29034089729903106
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,LeafShape,0.04600559525
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,LeafWater,2.7677810664173683
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,LeafletNum,1
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,PlantHeightGen,1.5035833333333333
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,PlantHeightVeg,0.740659057591623
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,Try_SeedDryMass,1.4403070566347724
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,StomataConductance_area,167.07412824123932
+Sornu,C4_Grass,Grass,Poaceae,Poaceae,Sorghastrum nutans,Sorghastrum nutans (L.) Nash ,StomataConductance_mass,1.9327379124899655

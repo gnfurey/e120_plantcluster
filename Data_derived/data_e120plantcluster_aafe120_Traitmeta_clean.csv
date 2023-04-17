@@ -1,0 +1,7 @@
+"OrigVarName","TraitName","UnitName","VarName"
+"Area_of_leaf_blade_cm2","Leaf laminar area (Local)","squareCentimeters","Local_LeafBladeArea"
+"P/A","Leaf perimeter per area (Local)","waveNumber","Local_P.A"
+"P_A*L","Leaf perimeter per area times leaf laminar length (Local)","dimensionless","Local_P.A.L"
+"SLA_cm2/g","Leaf area per leaf dry mass (petiole excluded) (Local)","centimetersSquaredPerGram","Local_SLA_pet_ex"
+"Seed_weight_(g)","Seed dry mass (Local)","gram","Local_SeedDryMass"
+"height_(m)","Average plant height at maturity (USDA)","meter","Local_Height"

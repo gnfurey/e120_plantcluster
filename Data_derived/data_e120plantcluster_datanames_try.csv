@@ -1,0 +1,23 @@
+TraitID,TraitName,TraitNameClean,VarName,UnitName,Dataset
+896,Fine root diameter,Fine root diameter,FineRootDiameter,mm,TRY
+1781,Fine root tissue density (fine root dry mass per fine root volume),Fine root tissue density,FineRootTissueDensity,g/cm3,TRY
+3110,"Leaf area (in case of compound leaves: leaf, petiole included)", Leaf area (petiole included),LeafArea,mm2,TRY
+3115,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole excluded",Leaf area per leaf dry mass (petiole excluded),TRY_SLA_pet_ex,mm2 mg-1,TRY
+3116,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole included",Leaf area per leaf dry mass (petiole included),TRY_SLA_pet_inc,mm2 mg-1,TRY
+3117,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded",Leaf area per leaf dry mass (petiole undefined),TRY_SLA_pet_undef,mm2 mg-1,TRY
+89,Leaf carbon (C) isotope signature (delta 13C),Leaf carbon (C) isotope signature (delta 13C),LeafDelta13Carbon,per mill,TRY
+55,Leaf dry mass (single leaf),Leaf dry mass (single leaf),LeafDryMassSingle,mg,TRY
+47,"Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)",Leaf dry mass per leaf fresh mass,LDMC,g g-1,TRY
+163,Leaf fresh mass,Leaf fresh mass,LeafFreshMass,g,TRY
+14,Leaf nitrogen (N) content per leaf dry mass,Leaf nitrogen (N) content per leaf dry mass,LeafNitrogen,mg/g,TRY
+78,Leaf nitrogen (N) isotope signature (delta 15N),Leaf nitrogen (N) isotope signature (delta 15N),LeafDelta15Nitrogen,per mill,TRY
+53,Leaf photosynthesis rate per leaf area,Leaf photosynthesis rate per leaf area,LeafPhoto_area,micro mol m-2 s-1,TRY
+40,Leaf photosynthesis rate per leaf dry mass,Leaf photosynthesis rate per leaf dry mass,LeafPhoto_mass,micro mol g-1 s-1,TRY
+154,Leaf shape,Leaf shape,LeafShape,cm/cm,TRY
+3120,Leaf water content per leaf dry mass (not saturated),Leaf water content per leaf dry mass (not saturated),LeafWater,g(W)/g(DM),TRY
+759,Leaflet number per leaf,Leaflet number per leaf,LeafletNum,1/leaf,TRY
+3107,Plant height generative,Plant height generative,PlantHeightGen,m,TRY
+3106,Plant height vegetative,Plant height vegetative,PlantHeightVeg,m,TRY
+26,Seed dry mass,Seed dry mass,Try_SeedDryMass,mg,TRY
+45,Stomata conductance per leaf area,Stomata conductance per leaf area,StomataConductance_area,milli mol m-2 s-1,TRY
+106,Stomata conductance per leaf dry mass,Stomata conductance per leaf dry mass,StomataConductance_mass,milli mol g-1 s-1,TRY
