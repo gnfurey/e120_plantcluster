@@ -1,0 +1,141 @@
+---
+title: "Plant chemical traits define functional and phylogenetic axes of plant biodiversity : Supplemental Information 2"
+author: "George N. Furey & David Tilman"
+output:
+  pdf_document: default
+  html_document: default
+editor_options: 
+  chunk_output_type: console
+---
+
+# Summary of data processing and data sets used
+506 public traits for species IDs 909, 3238, 3564, 3565, 5513, 33011, 33264, 34452, 37102, 40121, 16836, 42870, 48859, 50893, 51135, 31934, were queried from the TRY 5.0 Trait database on 2022-01-27 to George N. Furey under request ID "19226". Data was imported using package rtry (1.0.0) with function rtry_import. Duplicate values were removed with rtry_remove_dup. Observations with both Original Values ("OrigValueStr") and Standard Values ("StdValue") with value NA were removed. Traits with no original units ("OrigValueStr") and with no standardized values were removed whereas those with no original values, but standardized values and units were retained. Observations for a trait that is standardized, but for which there were no standardized values were removed. Observations for traits that were not standardized, but with original values and units were retained. Only "Leaf shape" was not standardized and observations of "DataName" of "Leaf aspect ratio (width/length)" in "cm/cm" were retained. Only observation kinds ("ValueKindName") of "Single", "Mean", "Best estimate", "Median", "Species mean", and "Site specific mean" were retained. The set of traits for which there was at least one value for each species were retained. The filtering left 22 traits. Of these 22 traits, for each species by trait combination with a sample size greater than three, observations with an error risk (Z-score; see TRY data release notes) greater than four were removed. The mean value for each of the 22 traits was calculated and retained as the trait value for each species. The following traits (Table 1) from datasets in the TRY 5.0 database (Table 2) with trait by dataset observations in Table 3. 
+
+\newpage
+
+```{r echo=FALSE,include=FALSE,message=FALSE}
+library(gt)
+library(tidyverse)
+library(targets)
+library(knitr)
+#load in try data
+tar_load(trydata_long)
+try <- read.csv(trydata_long)
+#get references 
+references <- try %>% select(Reference) %>% 
+  distinct() %>% 
+  filter(Reference!="unpub.") %>% 
+  arrange(Reference)
+#get datasets 
+datasets <- try %>% 
+  select(LastName,FirstName,DatasetID,Dataset) %>% 
+  distinct() %>% 
+  filter(FirstName!="m² Kg-1") %>% 
+  arrange(DatasetID) 
+# unique(datasets$FirstName)
+# get data sets with different set of vars
+datasets1 <- try %>% 
+  # select(LastName,FirstName,DatasetID,Dataset,TraitName) %>% 
+  group_by(Dataset,TraitID) %>% 
+  count() %>% 
+  ungroup() %>% 
+  arrange(Dataset,desc(n))
+#different set of vars 
+datasets2 <- try %>% 
+  select(TraitName,TraitID) %>% 
+  distinct() %>% 
+  arrange(TraitID)
+```
+
+\newpage
+
+```{r echo=FALSE,message=FALSE}
+# library(kableExtra)
+kable(datasets2,caption = "List of Traits used from the Try 5.0 database",
+      label = NA)
+```
+
+\newpage
+
+```{r echo=FALSE,message=FALSE}
+kable(datasets,caption = "List of Datasets used from the Try 5.0 database",
+      label = NA)
+```
+
+\newpage
+
+```{r echo=FALSE,message=FALSE,label = NA}
+kable(datasets1,caption = "List of the frequency of traits used from each dataset from the Try 5.0 database",label = NA)
+```
+
+\newpage
+
+# Distributions of the traits for the species in this manuscript.
+
+Each figure shows the mean ± 1 SE along with the boxplot and violin showing the distribution of values. Each species is colored based on whether it is C3 grass, C4 grass, forb or legume. One figure per trait per page is shown below. The mean of each trait for each species was used in the analyses presented in the main text.
+
+\newpage
+
+```{r echo=FALSE,message=FALSE,warning=FALSE,fig.height=6}
+library(tidyverse)
+library(targets)
+source("Functions/00_e120plantcluster_functions.R")
+source("Functions/999_saveandreturn.R")
+#load in data 
+tar_load(trydata_long)
+dat <- read.csv(trydata_long)
+# length(unique(dat$TraitID))
+#get ccesr name 
+dat$AccSpeciesName <- ifelse(dat$AccSpeciesName=="Achillea millefolium",
+                             "Achillea millefolium(lanulosa)",dat$AccSpeciesName)
+#get ccesr name 
+dat$AccSpeciesName <- ifelse(dat$AccSpeciesName=="Koeleria macrantha",
+                             "Koeleria cristata",dat$AccSpeciesName)
+#get ccesr name 
+dat$AccSpeciesName <- ifelse(dat$AccSpeciesName=="Dalea purpurea",
+                             "Petalostemum purpureum",dat$AccSpeciesName)
+#get functional group 
+dat$funcgroup <- get_funcgroup(get_specidfrom5(get_fiveID(dat$AccSpeciesName)))
+#
+dat$funcgroup <- as.factor(dat$funcgroup)
+#tmp check 
+tmp <- dat %>% select(AccSpeciesName,funcgroup) %>% 
+  distinct() %>% arrange(funcgroup)
+#
+dat <- dat %>% arrange(TraitName)
+dat$TraitName <- str_replace_all(string = dat$TraitName,
+                                   pattern = coll("(specific leaf area, SLA or 1/LMA)"),
+                                   replacement = "")
+ids <- unique(dat$TraitName)
+#function to plot each trait 
+pfun <- function(x,names1){
+  # x <- ids[1]
+  tmp <- dat %>% filter(TraitName==x)
+  lab <- paste(paste(tmp$TraitName,tmp$UnitName,sep=" ("),")",sep="")
+  tit1 <- paste(names1,sep="\n",unique(tmp$TraitName))
+  p1 <- ggplot(tmp,aes(x=fct_reorder(AccSpeciesName,as.numeric(funcgroup)),
+                       y=TraitVal,fill=funcgroup))+
+    # geom_point()+
+    geom_boxplot()+
+    geom_violin(alpha=0.1)+
+    stat_summary(size=0.2)+
+    # coord_flip()+
+    ylab(lab)+
+    xlab("Species Name")+
+    ggtitle(tit1)+
+    theme(axis.text.x = element_text(size=7,
+                                     hjust = 1,
+                                     angle = 60),
+          axis.title.y = element_text(size=8),
+          title=element_text(size=7),
+          legend.position = "bottom")
+  p1
+}
+names1 <- paste("S2-Figure",c(seq(from=1,to=length(ids))),sep="")
+plots <- map2(.x = ids,.f = pfun,.y = names1)
+#
+# ggsave(filename = "e120plantcluster_SI_2_Try_TraitDistributions.pdf",
+#     plot = gridExtra::marrangeGrob(plots, nrow=1, ncol=1),
+#     width = 6, height = 6)
+walk(plots, plot)
+```

@@ -1,0 +1,450 @@
+---
+title: "Plant chemical traits define functional and phylogenetic axes of plant biodiversity : Supplemental Information 3"
+author: "George N. Furey & David Tilman"
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+editor_options:
+  chunk_output_type: console
+---
+
+```{r include=FALSE,message=FALSE}
+library(broom)
+library(targets)
+library(hypervolume)
+library(tidyverse)
+###
+set.seed(42)
+tar_load(e120chem)
+chem_dat <- e120chem
+chem <- read.csv(chem_dat)
+###
+tar_load(e120_species)
+e120_spec <- read.csv(e120_species)
+e120_spec1 <- e120_spec %>% 
+    select(Specid_5,funcgroup_noc3,Clade)
+colnames(e120_spec1)[1] <- "Species"
+#
+chem <- left_join(chem,e120_spec1)
+###
+dat.l <- chem %>%
+  select(Plot, Species, Clade, Calcium, Nitrogen, Potassium) %>%
+  pivot_longer(c(Calcium:Potassium), names_to = "nut", values_to = "val")
+Poaceae <- chem %>%
+  filter(Clade == "Poaceae") %>%
+  select(Calcium, Nitrogen, Potassium)
+Fabaceae <- chem %>%
+  filter(Clade == "Fabaceae") %>%
+  select(Calcium, Nitrogen, Potassium)
+Asterids <- chem %>%
+  filter(Clade == "Asterids") %>%
+  select(Calcium, Nitrogen, Potassium)
+#
+```
+
+```{r include=FALSE,message=FALSE}
+#this function estimates a bandwidth for each object
+#based on different methods 
+bandwidth_check <-
+  function(object, method1, name) {
+    # object <- Poaceae
+    # name <- "Poaceae"
+    # method1="plug-in"
+    # ?estimate_bandwidth
+    band <- as.data.frame(estimate_bandwidth(object, method = method1))
+    colnames(band)[1] <- method1
+    band$Group <- name
+    band$nutrient <- colnames(object)
+    band.w <- band %>%
+      pivot_wider(
+        names_from = "nutrient",
+        values_from = all_of(method1)
+      )
+    band.w$method <- method1
+    return(band.w)
+  }
+#bandwidth methods 
+method1 <- c("silverman", "plug-in", "cross-validation")
+#objects 
+object <- list(Poaceae, Fabaceae, Asterids)
+#set names 
+names(object) <- c("Poaceae", "Fabaceae", "Asterids")
+#generate data frame 
+grids <- expand_grid(object, method1)
+#
+grids$name <- names(grids$object)
+#list
+vars <- list(grids$object, grids$method1, grids$name)
+#run the bandwidth function
+band <- pmap(
+  .l = vars,
+  .f = bandwidth_check
+)
+#wrap them all together
+band1 <- bind_rows(band)
+band1 <- band1 %>% arrange(Group)
+write_csv(x = band1, file = "Data_derived/data_e120plantcluster_kernalbandwidth.csv")
+# band1 <- read_csv("Data_derived/data_e120plantcluster_kernalbandwidth.csv")
+```
+
+To evaluate the three dimensional volume for each functional group, the R package "High Dimensional Geometry, Set Operations, Projection, and Inference Using Kernel Density Estimation, Support Vector Machines, and Convex Hulls *hypervolume* 3.0.4" was used. To estimate the gaussian volume, a kernel bandwidth parameter must be used. *hypervolume* offers several options. These options for each group are presented in a table below using function *estimate_bandwidth()*.
+
+```{r message=FALSE,echo=FALSE}
+library(gt)
+band1 %>% gt() %>% 
+  fmt_number(
+    columns = c(Calcium,Nitrogen,Potassium),
+    decimals = 5
+  ) %>% 
+  tab_header(
+    title = "Table 1: Bandwidth parameter estimated using three methods for %Ca, %N and %K for Poaceae, Fabaceae and Asterids")
+```
+
+\newpage
+
+```{r include=FALSE,message=FALSE}
+all_bands <- band1 %>%
+  pivot_longer(c(Calcium, Nitrogen, Potassium), names_to = "nut", values_to = "bw")
+# a function to show the distribution of each trait
+# a histogram and density is overlayed
+pfun <- function(Clade1, nut1, adjust1) {
+  # Clade1 <- "Poaceae"
+  # nut1 <- "Calcium"
+  tmp <- dat.l %>%
+    filter(Clade == Clade1) %>%
+    filter(nut == nut1)
+  band_dat <- all_bands %>%
+    filter(Group == Clade1) %>%
+    filter(nut == nut1)
+  band_dat <- as.data.frame(band_dat)
+  p1 <- ggplot(tmp, aes(x = val, y = ..density..)) +
+    geom_histogram(
+      bins = 10, fill = "grey", color = "Black",
+      alpha = 0.5
+    ) +
+    geom_density(aes(color = "silverman"),
+      size = 0.5,
+      kernel = "gaussian",
+      bw = band_dat[band_dat$method == "silverman", "bw"],
+      adjust = 1
+    ) +
+    geom_density(aes(color = "plug-in"),
+      size = 0.5,
+      kernel = "gaussian",
+      bw = band_dat[band_dat$method == "plug-in", "bw"],
+      adjust = 1
+    ) +
+    geom_density(aes(color = "cross-validation"),
+      size = 0.5,
+      kernel = "gaussian",
+      bw = band_dat[band_dat$method == "cross-validation", "bw"],
+      adjust = 1
+    ) +
+    ylab("Density") +
+    xlab("% of Element in Plant Tissue") +
+    theme_classic(base_size = 12) +
+    theme(
+      legend.position = "bottom",
+      axis.title = element_blank(),
+      axis.text.x = element_text(size = 6),
+      title = element_text(size = 8)
+    ) +
+    ggtitle(paste(Clade1, nut1, sep = "_"))
+  p1
+}
+#each Clade
+Clade <- unique(dat.l$Clade)
+#nutrients 
+nut <- c("Calcium", "Potassium", "Nitrogen")
+#get data frame 
+combs <- expand_grid(Clade, nut)
+#run the function for each group
+plots <- map2(
+  .x = combs$Clade, .f = pfun, .y = combs$nut,
+  adjust1 = 1
+)
+library(gridExtra)
+library(grid)
+# https://stackoverflow.com/questions/13649473/add-a-common-legend-for-combined-ggplots
+legendfunc <- function(a.gplot) {
+  tmp <- ggplot_gtable(ggplot_build(a.gplot))
+  leg <- which(sapply(tmp$grobs, function(x) x$name) == "guide-box")
+  legend <- tmp$grobs[[leg]]
+  return(legend)
+}
+#get the legend
+mylegend.1 <- legendfunc(plots[[1]])
+#get the plots 
+plots <- map(.x = plots, .f = function(x) {
+  x + theme(legend.position = "none")
+})
+o1 <- exec(
+  .fn = grid.arrange, grobs = plots, ncol = 3,
+  bottom = textGrob("% of Element in Plant Tissue",
+    gp = gpar(
+      cex = 1, fontsize = 12,
+      family = "Helvitica"
+    )
+  ),
+  left = textGrob("Density",
+    rot = 90,
+    gp = gpar(
+      cex = 1, fontsize = 12,
+      family = "Helvitica"
+    )
+  )
+)
+
+# ggsave(
+#   filename = "Figures/pfun_norm_bands.pdf",
+#   plot = grid.arrange(o1, mylegend.1,
+#     heights = list(unit(3, "in"), unit(0.5, "in")),
+#     padding = unit(3, "mm")
+#   ),
+#   height = 4, width = 6.5, unit = "in"
+# )
+```
+
+To examine each kernel bandwidth parameter option, a histogram overlayed with a density plot is presented using the three options from the first table for each functional group by element combination. Examining the plot, it appears that the three options are mostly similar. The Silverman and cross-validation method do a slightly better job of not over-fitting the data.
+
+```{r message=FALSE,echo=FALSE}
+return(grid.arrange(o1, mylegend.1,
+    heights = list(unit(3, "in"), unit(0.5, "in")),
+    padding = unit(3, "mm")
+  ))
+```
+
+\newpage
+
+```{r include=FALSE,message=FALSE}
+#silverman 
+silverman <- band1 %>%
+  filter(method == "silverman") %>%
+  pivot_longer(c(Calcium, Nitrogen, Potassium), names_to = "nut", values_to = "bw")
+#plot function with a range of silverman
+pfun2 <- function(Clade1, nut1) {
+  # Clade1 <- "Poaceae"
+  # nut1 <- "Calcium"
+  tmp <- dat.l %>%
+    filter(Clade == Clade1) %>%
+    filter(nut == nut1)
+  silverman1 <- silverman %>%
+    filter(Group == Clade1) %>%
+    filter(nut == nut1)
+  p1 <- ggplot(tmp, aes(x = val, y = ..density..)) +
+    geom_histogram(
+      bins = 10, fill = "grey", color = "Black",
+      alpha = 0.5
+    ) +
+    geom_density(aes(color = "silverman*0.5"),
+      size = 0.5,
+      kernel = "gaussian",
+      bw = silverman1$bw,
+      adjust = 0.5
+    ) +
+    geom_density(aes(color = "silverman"),
+      size = 0.5,
+      kernel = "gaussian",
+      bw = silverman1$bw,
+      adjust = 1
+    ) +
+    geom_density(aes(color = "silverman*2"),
+      size = 0.5,
+      kernel = "gaussian",
+      bw = silverman1$bw,
+      adjust = 2
+    ) +
+    ylab("Density") +
+    xlab("% of Element in Plant Tissue") +
+    theme_classic(base_size = 12) +
+    theme(
+      legend.position = "bottom",
+      axis.title = element_blank(),
+      axis.text.x = element_text(size = 6),
+      title = element_text(size = 8)
+    ) +
+    ggtitle(paste(Clade1, nut1, sep = "_"))
+  p1
+}
+#
+Clade <- unique(dat.l$Clade)
+#
+nut <- c("Calcium", "Potassium", "Nitrogen")
+#
+combs <- expand_grid(Clade, nut)
+#get plots 
+plots2 <- map2(.x = combs$Clade, .f = pfun2, .y = combs$nut)
+library(gridExtra)
+library(grid)
+# https://stackoverflow.com/questions/13649473/add-a-common-legend-for-combined-ggplots
+legendfunc <- function(a.gplot) {
+  tmp <- ggplot_gtable(ggplot_build(a.gplot))
+  leg <- which(sapply(tmp$grobs, function(x) x$name) == "guide-box")
+  legend <- tmp$grobs[[leg]]
+  return(legend)
+}
+#
+mylegend.2 <- legendfunc(plots2[[1]])
+plots2 <- map(.x = plots2, .f = function(x) {
+  x + theme(legend.position = "none")
+})
+o2 <- exec(
+  .fn = grid.arrange, grobs = plots2, ncol = 3,
+  bottom = textGrob("% of Element in Plant Tissue",
+    gp = gpar(
+      cex = 1, fontsize = 12,
+      family = "Helvitica"
+    )
+  ),
+  left = textGrob("Density",
+    rot = 90,
+    gp = gpar(
+      cex = 1, fontsize = 12,
+      family = "Helvitica"
+    )
+  )
+)
+
+# ggsave(
+#   filename = "Figures/pfun_norm.pdf",
+#   plot = grid.arrange(o2, mylegend.2,
+#     heights = list(unit(3, "in"), unit(0.5, "in")),
+#     padding = unit(3, "mm")
+#   ),
+#   height = 4, width = 6.5, unit = "in"
+# )
+```
+
+As there is no objective method for choosing the kernal bandwidth parameter, it is recommended to try a range of values. Below is plotted the Silverman estimator at a factor of one half to double. The Silverman estimator without adjustment appears to do the best job of neither over-fitting nor under-fitting the data.
+
+```{r message=FALSE,echo=FALSE}
+return(grid.arrange(o2, mylegend.2,
+    heights = list(unit(3, "in"), unit(0.5, "in")),
+    padding = unit(3, "mm")
+  ))
+```
+
+\newpage
+
+```{r include=FALSE,message=FALSE}
+library(MVN)
+#test the multivariance normality
+mvntest_tab <- function(object, name, univariatetest) {
+  # object <- Poaceae
+  # name <- "Poaceae"
+  print(deparse(substitute(object)))
+  mvn1 <- mvn(object,
+    mvnTest = "hz",
+    univariateTest = univariatetest
+  )
+  tab <- as.data.frame(mvn1$univariateNormality)
+  tab$Group <- name
+  return(tab)
+}
+#return univariate tests 
+tabs <- map2(
+  .x = list(Poaceae, Fabaceae, Asterids), .y = c(
+    "Poaceae", "Fabaceae",
+    "Asterids"
+  ),
+  .f = mvntest_tab,
+  univariatetest = "SW"
+)
+tabs2 <- bind_rows(tabs)
+#get MVN for different options 
+mvntest_tab2 <- function(object, name, mvtest) {
+  # object <- Poaceae
+  # name <- "Poaceae"
+  # mvtest <- "hz"
+  mvn1 <- mvn(object, mvnTest = mvtest)
+  tab <- as.data.frame(mvn1$multivariateNormality)
+  tab$Group <- name
+  return(tab)
+}
+#hz option
+tabs_mvn_hz <- map2(
+  .x = list(Poaceae, Fabaceae, Asterids), .y = c(
+    "Poaceae", "Fabaceae",
+    "Asterids"
+  ),
+  .f = mvntest_tab2,
+  mvtest = "hz"
+)
+#mardia
+tabs_mvn_hz <- bind_rows(tabs_mvn_hz)
+tabs_mvn_mardia <- map2(
+  .x = list(Poaceae, Fabaceae, Asterids), .y = c(
+    "Poaceae", "Fabaceae",
+    "Asterids"
+  ),
+  .f = mvntest_tab2,
+  mvtest = "mardia"
+)
+tabs_mvn_mardia <- bind_rows(tabs_mvn_mardia)
+tabs_mvn_mardia <- tabs_mvn_mardia %>%
+  filter(Test != "MVN")
+```
+
+The Silverman estimator is considered optimal if the data are normally distributed. Normality was assessed using R package "Multivariate Normality Tests (MVN) 5.9". Five out of Nine variables were normal based on a Shapiro-Wilk test. The Henze-Zirkler test for multivariate normality found that the data were not multivariate normal. However, Mardia tests shows that there is reasonably low multivariate kurtosis and skewness. Given the statistics presented, we chose to stick with the Silverman estimator to calculate the volumes for each functional group. 
+
+```{r message=FALSE,echo=FALSE}
+#generate tables 
+tabs2$Statistic <- as.numeric(str_trim(tabs2$Statistic))
+tabs2 %>% gt() %>% 
+  fmt_number(
+    columns = c(Statistic),
+    decimals = 2
+  ) %>% 
+  tab_header(
+    title = "Table 2: Shapiro-Wilk univariate normality test for each of %Ca, %N and %K for Poaceae, Fabaceae and Asterids")
+tabs_mvn_hz %>% gt() %>% 
+  fmt_number(
+    columns = c(HZ),
+    decimals = 2
+  ) %>% 
+  fmt_number(
+    columns = c(`p value`),
+    decimals = 4
+  )%>% 
+  tab_header(
+    title = "Table 3: Henze-Zirkler multivariate normality test for the joint distribution of %Ca, %N and %K for Poaceae, Fabaceae and Asterids")
+tabs_mvn_mardia$Statistic <- as.numeric(str_trim(tabs_mvn_mardia$Statistic))
+tabs_mvn_mardia$`p value`<- as.numeric(str_trim(tabs_mvn_mardia$`p value`))
+tabs_mvn_mardia %>% gt()%>% 
+  fmt_number(
+    columns = c(Statistic),
+    decimals = 1
+  )%>% 
+  fmt_number(
+    columns = c(`p value`),
+    decimals = 3
+  )%>% 
+  tab_header(
+    title = "Table 4: Mardia multivariate skewness and kurtosis test for the joint distribution of %Ca, %N and %K for Poaceae, Fabaceae and Asterids")
+```
+
+\newpage
+The following print-outs describe the three *hypervolume* objects presented in Figure 3b.
+
+```{r include=FALSE,message=FALSE}
+tar_load(hypervolume_list)
+```
+
+Hypervolume object based on %Ca, %N and %K for the six Poaceae species
+
+```{r echo=FALSE,message=FALSE}
+hypervolume_list[[1]]
+```
+\newpage
+Hypervolume object based on %Ca, %N and %K for the four Fabaceae species
+
+```{r echo=FALSE,message=FALSE}
+hypervolume_list[[2]]
+```
+\newpage
+Hypervolume object based on %Ca, %N and %K for the five Asterid species
+
+```{r echo=FALSE,message=FALSE}
+hypervolume_list[[3]]
+```
